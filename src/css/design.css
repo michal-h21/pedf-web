@@ -34,18 +34,19 @@ header menu a:hover{
 
 body.portal main{
   display:flex;
+  min-height:34em;
 }
 
-body.portal .news *, body.portal .sitemap *{
+body.portal .news *, body.portal .sitemap *, body.portal .open-hours *{
 padding:0;
 margin:0;
 }
 body.portal .news {
-  margin-right:1em;
-  width:50%;
+  margin-right:auto;
+  width:40%;
 }
 
-body.portal .news, body.portal .sitemap{font-size:0.8em;}
+body.portal .news, body.portal .sitemap, body.portal .open-hours{font-size:0.8em;}
 
 body.portal .news h2 {
   font-size:1em;
@@ -55,7 +56,22 @@ body.portal .news h2 {
 
 body.portal .sitemap menuitem{display:block;}
 
+body.portal .sitemap {margin-right:auto}
 
+aside.open-hours{
+}
+
+aside.open-hours h3{
+margin:0;
+}
+
+footer{
+  width:100%;
+  background-color:black;
+  color:#e67e39;
+  min-height:5em;
+  margin-top:2em;
+}
 
 .z1,.z2,.z3,.z4{
   font-size:1em;

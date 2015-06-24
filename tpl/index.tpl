@@ -37,6 +37,21 @@
 </div>
 {{/sitemap}}
 </aside>
+<aside class="open-hours">
+<h3>Provozní doba</h3>
+{{#prov_doba}}
+<h4>{{comment}}</h4>
+{{#children}}
+<h5>{{name}}</h5>
+<table>
+{{#data}}
+<tr><td>{{day}}</td><td>{{time}}</td></tr>
+{{/data}}
+</table>
+{{/children}}
+{{/prov_doba}}
+<span><a href="provozni_doba.htm">Více</a></span>
+</aside>
 </main>
 {{> footer}}
 </body>

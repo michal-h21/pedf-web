@@ -10,6 +10,7 @@ local transformer = lazy.transformer
 local index = require("index").index
 local merge = require("lettersmith.table_utils").merge
 local sitemap = require "sitemap"
+local prov_doba = require "prov_doba"
 local templates = require("templates")
 
 
@@ -46,6 +47,7 @@ local add_defaults = make_transformer(function(doc)
     table.insert(doc.styles,"css/design.css")
   end
   doc.sitemap = sitemap
+  doc.prov_doba = prov_doba
   return doc
 end)
 
@@ -53,6 +55,7 @@ end)
 
 local add_sitemap = make_transformer(function(doc)
   doc.sitemap=sitemap
+  doc.prov_doba = prov_doba
   return doc
 end)
 
@@ -68,7 +71,6 @@ local sitemap_to_portal = function(name)
       doc.sitemap = sitemap
       return doc
     else
-      print("Zkouším", name, doc.name)
       return false
     end
   end
