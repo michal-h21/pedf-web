@@ -1,0 +1,125 @@
+local lettersmith = require("lettersmith")
+local transducers = require "lettersmith.transducers"
+local rss = require "lettersmith.rss"
+local map = transducers.map
+local reduce = transducers.reduce
+local filter  = transducers.filter
+local lazy = require "lettersmith.lazy"
+local transform = lazy.transform
+local transformer = lazy.transformer
+local index = require("index").index
+local merge = require("lettersmith.table_utils").merge
+local sitemap = require "sitemap"
+local templates = require("templates")
+
+
+-- Get paths from "raw" folder
+local paths = lettersmith.paths("src")
+local aktuality = lettersmith.paths("src/aktuality")
+local comp = require("lettersmith.transducers").comp
+
+local render_mustache = require("lettersmith.mustache").choose_mustache
+
+local make_transformer = function(fn)
+  return transformer(map(fn))
+end
+
+local make_filter = function(reg)
+  return transformer(filter(function(doc)
+    local fn = doc.relative_filepath
+    return fn:match(reg)
+  end
+ ))
+end
+
+local html_filter = make_filter("htm[l]?$")
+
+local css_filter =  make_filter("css$")
+
+
+local add_defaults = make_transformer(function(doc)
+  print("Zpracovavam", doc.relative_filepath)
+  doc.template = doc.template or "blog.tpl"
+  doc.styles = doc.styles or {}
+  if doc.design ~=false then
+    table.insert(doc.styles,"css/scale.css")
+    table.insert(doc.styles,"css/design.css")
+  end
+  doc.sitemap = sitemap
+  return doc
+end)
+
+
+
+local add_sitemap = make_transformer(function(doc)
+  doc.sitemap=sitemap
+  return doc
+end)
+
+local sitemap_to_portal = function(name)
+  local function match(doc)
+    if doc.name == name then
+      local filepath =  doc.url
+      doc.relative_filepath = filepath
+      doc.template = "portal.tpl"
+      doc.styles =  {"css/scale.css","css/design.css"}
+      print("Make portal", name, filepath)
+      doc.portal = doc
+      doc.sitemap = sitemap
+      return doc
+    else
+      print("Zkouším", name, doc.name)
+      return false
+    end
+  end
+  return transform(filter(match), ipairs(sitemap))
+end
+
+local builder = comp(
+  lettersmith.docs
+)
+
+-- use templates on html files
+local html_builder = comp(
+  render_mustache("tpl/",templates),
+  add_defaults,
+  html_filter,
+  lettersmith.docs
+)
+
+-- don't use templates and anything fancy on css files
+local css_builder = comp(
+  css_filter,
+  lettersmith.docs
+)
+
+local rss_gen = comp(
+  rss.generate_rss("feed.rss","http://beta.pedf.cuni.cz", "Ústřední knihovna PedF UK", ""),
+  lettersmith.docs
+)
+
+
+local index_gen = comp(
+  render_mustache("tpl/",templates),
+  -- render_page,
+  add_sitemap,
+  index("index.html"),
+  lettersmith.docs
+)
+
+local katalog_portal = comp(
+  render_mustache("tpl/",templates),
+  sitemap_to_portal)
+
+-- Build files, writing them to "www" folder
+lettersmith.build(
+  "www", 
+  builder(paths), 
+  html_builder(paths),
+  css_builder(paths), 
+  rss_gen(aktuality),
+  index_gen(aktuality),
+  katalog_portal("Katalogy a databáze"),
+  katalog_portal("Služby")
+)
+

@@ -1,0 +1,9 @@
+
+
+                          td{width:20em;
+                                  text-align:center;
+                          }
+                          td:first-child{
+                                  width:40em;
+                          }
+
