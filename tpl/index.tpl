@@ -14,6 +14,7 @@
 {{{contents}}}
 <main>
 <article class="news">
+<h2>Aktuality</h2>
 {{#items}}
 <div class="item">
 <h2>{{date}} {{#akt_title}} - {{akt_title}}{{/akt_title}}</h2>

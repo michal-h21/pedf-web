@@ -1,0 +1,122 @@
+body{
+  max-width:60em;
+}
+
+header{padding:0;margin:0}
+
+header h1{
+  margin:0;
+  padding-top:1em;
+  padding-bottom:2em;
+  background-color:#e67e39;
+  font-size:3em;
+}
+header menu menuitem {
+  margin-right:1em;
+  font-size:1.5em;
+}
+header menu{
+  margin-bottom:0.5em;
+  background-color:black;
+  padding:0.3em;
+}
+
+header menu a{
+  color: rgb(200,200,200);
+  text-decoration:none;
+  border: none;
+}
+
+header menu a:hover{
+  color:white;
+  background-color:gray;
+}
+
+body.portal main{
+  display:flex;
+  min-height:34em;
+}
+
+body.portal .news *, body.portal .sitemap *, body.portal .open-hours *{
+padding:0;
+margin:0;
+}
+body.portal .news {
+  margin-right:auto;
+  width:40%;
+}
+
+
+body.portal .news, body.portal .sitemap, body.portal .open-hours{font-size:0.8em;}
+
+body.portal .news .item h2 {
+  font-size:1em;
+  background-color:#e67e39;
+  width:100%;
+}
+body.portal .news > h2 {
+  font-size:1.5em;
+  background-color:#e67e39;
+  width:100%;
+  margin-bottom:0.5em;
+}
+
+body.portal .sitemap menuitem{display:block;}
+
+.portalcontent menuitem menuitem{margin-left: 2em;}
+
+.portal main .sitemap menu{
+}
+
+.portal div.box{
+  margin-bottom:1em;
+}
+
+.portal div.box menuitem menuitem{
+  margin-left:2em;
+  color:red;
+}
+
+div.vystavba{color:gray; font-size:0.8em;}
+
+.portal .boxname{
+  background-color:#e67e39;
+  width:100%;
+}
+
+body.portal .sitemap {margin-right:auto}
+
+
+
+aside.open-hours{
+}
+
+aside.open-hours h3{
+margin:0;
+}
+
+body.portal aside.open-hours  h5{
+  margin-top:1em;
+}
+footer{
+  width:100%;
+  background-color:black;
+  color:#e67e39;
+  min-height:5em;
+  margin-top:2em;
+}
+
+.z1,.z2,.z3,.z4{
+  font-size:1em;
+  color:black;
+}
+
+.z0{
+  font-size:2em;
+  color:black;
+}
+
+.z5{
+  font-size:1.4em;
+  color:black;
+}

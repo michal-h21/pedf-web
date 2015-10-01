@@ -12,7 +12,7 @@
 <body class="portal">
 {{> header}}
 {{{contents}}}
-<main>
+<main class="portalcontent">
 <aside class="sitemap">
 {{#portal}}
 <div class="box">
@@ -21,6 +21,11 @@
 {{#children}}
 <menuitem>
 <a href="{{url}}">{{name}}</a>
+{{#subchildren}}
+<menuitem>
+<a href="{{url}}">{{name}}</a>
+</menuitem>
+{{/subchildren}}
 </menuitem>
 {{/children}}
 </menu>

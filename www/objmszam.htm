@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Objednavka meziknihovni vypujcni sluzby</title>
+
+<link rel="stylesheet" type="text/css" href="css/objmszam.css" />
+
+<link rel="stylesheet" type="text/css" href="css/scale.css" />
+
+<link rel="stylesheet" type="text/css" href="css/design.css" />
+
+
+</head>
+<body>
+<header>
+    <div class="vystavba">
+        Stránky jsou ve výstavbě, děkujeme za pochopení
+    </div>
+    <a href="index.html">
+        <h1>
+            Ústřední knihovna PedF UK
+        </h1>
+    </a>
+    <menu>
+        
+        <menuitem>
+            <a href="katalogy.html">
+                Katalogy a databáze
+            </a>
+        </menuitem>
+        
+        <menuitem>
+            <a href="sluzby.html">
+                Služby
+            </a>
+        </menuitem>
+        
+        <menuitem>
+            <a href="biblio">
+                Personální bibliografie
+            </a>
+        </menuitem>
+        
+        <menuitem>
+            <a href="informace.htm">
+                O knihovně
+            </a>
+        </menuitem>
+        
+    </menu>
+</header>
+
+
+<form name="mail_form" action=
+"mailto:zuzana.marsickova@pedf.cuni.cz" method="post" enctype=
+"text/plain"><br />
+<center>
+<table border="0" width="570" bgcolor="silver" cellpadding="10"
+cellspacing="0" cols="1">
+<tr>
+<td>
+<center><br />
+<br />
+<font size="+2"><font color="#000080">Objednávka meziknihovní
+služby</font></font><br />
+<font size="+2"><font color="#000080">pro zaměstnance UK
+PedF</font></font><br />
+<br />
+<font color="#000080">výpůjčka/kopie<br />
+Údaje označené * jsou povinné<br />
+Nepoužívejte diakritiku</font></center>
+<br />
+<br />
+<font size="+2"><font color="#000080">&#160;&#160;&#160;&#160;Údaje
+o žadateli</font></font><br />
+<br />
+<input type="hidden" name="OBJEDNAVKA" value=
+"MEZIKNIHOVNI SLUZBY" /> <input type="hidden" name="===" value=
+"===================" />
+<table border="0" width="560" bgcolor="silver" cellpadding="0"
+cellspacing="0" cols="2">
+<tr>
+<td>*Jméno a příjmení:</td>
+<td><input type="text" size="40" name="JMENO" /></td>
+</tr>
+<tr>
+<td>*Telefonní číslo:</td>
+<td><input type="text" size="40" name="TELEFON" /></td>
+</tr>
+<tr>
+<td>&#160;&#160;E-mail:</td>
+<td><input type="text" size="40" name="EMAIL" /></td>
+</tr>
+<tr>
+<td>*Datum objednávky:</td>
+<td><input type="text" size="40" name="DATUM_OBJ" /></td>
+</tr>
+<tr>
+<td>&#160;&#160;Aktuální do:</td>
+<td><input type="text" size="40" name="AKTUALNI_DO" /></td>
+</tr>
+</table>
+<input type="hidden" name="===" value=
+"===================" /><br />
+<br />
+<font size="+2"><font color=
+"#000080">&#160;&#160;&#160;&#160;Bibliografické
+údaje</font></font><br />
+<br />
+<table border="0" width="560" bgcolor="silver" cellpadding="0"
+cellspacing="0" cols="2">
+<tr>
+<td>*Autor:&#160;</td>
+<td><input type="text" size="70" name="AUTOR" /></td>
+</tr>
+</table>
+<table border="0" width="560" bgcolor="silver" cellpadding="0"
+cellspacing="0" cols="2">
+<tr>
+<td width="210">*Název knihy, sborníku, časopisu:</td>
+<td><input type="text" size="47" name="NAZEV_KNIHY" /></td>
+</tr>
+<tr>
+<td width="210">
+&#160;&#160;Název&#160;článku&#160;(*&#160;u&#160;kopie):&#160;</td>
+<td><input type="text" size="47" name="NAZEV_CLANKU" /></td>
+</tr>
+<tr>
+<td width="210">*Ročník, rok, číslo:</td>
+<td><input type="text" size="47" name="ROCNIK_ROK_CISLO" /></td>
+</tr>
+<tr>
+<td width="210">&#160;&#160;Kopie (ano - ne):</td>
+<td><select type="text" name="KOPIE">
+<option value="ne">ne</option>
+<option value="ano">ano</option>
+</select></td>
+</tr>
+<tr>
+<td width="210">&#160;&#160;Částka ceny do:</td>
+<td><input type="text" size="47" name="CASTKA_CENY" /></td>
+</tr>
+<tr>
+<td width="210">*Rozsah stran:</td>
+<td><input type="text" size="47" name="ROZSAH_STRAN" /></td>
+</tr>
+<tr>
+<td width="210">&#160;&#160;Místo, Vydavatel, *Rok:</td>
+<td><input type="text" size="47" name="MISTO_VYDAVATEL_ROK" /></td>
+</tr>
+</table>
+<table border="0" width="560" bgcolor="silver" cellpadding="0"
+cellspacing="0" cols="2">
+<tr>
+<td width="230">&#160;&#160;ISBN/ISSN (* v případě MMVS):</td>
+<td><input type="text" size="44" name="ISBN_ISSN" /></td>
+</tr>
+<tr>
+<td>&#160;&#160;Objednat i ze zahraničí (ano - ne):</td>
+<td><select type="text" name="ZE_ZAHRANICI">
+<option value="ne">ne</option>
+<option value="ano">ano</option>
+</select></td>
+</tr>
+</table>
+<table border="0" width="560" bgcolor="silver" cellpadding="0"
+cellspacing="0" cols="1">
+<tr>
+<td width="400">&#160;&#160;V případě, že je dokument vypůjčen
+udělat rezervaci (ano - ne):</td>
+<td><select type="text" name="REZERVACE">
+<option value="ne">ne</option>
+<option value="ano">ano</option>
+</select></td>
+</tr>
+</table>
+<table border="0" width="560" bgcolor="silver" cellpadding="0"
+cellspacing="0" cols="1">
+<tr>
+<td width="210">&#160;&#160;Lokační údaje (signatura):</td>
+<td><input type="text" size="47" name="LOKACE_SIGNATURA" /></td>
+</tr>
+<tr>
+<td>&#160;&#160;Pramen citace, zdroj ověření:</td>
+<td><input type="text" size="47" name="CITACE_ZDROJ" /></td>
+</tr>
+<tr>
+<td>&#160;&#160;Poznámka:</td>
+<td><input type="text" size="47" name="POZNAMKA" /></td>
+</tr>
+</table>
+<br />
+<br />
+<center><input type="submit" value="Odeslat" /> <input type="reset"
+value="Smazat" /></center>
+<br />
+<br />
+<br />
+<center>
+<p><a href="meziknih.htm" target="_blanc"><span class="zz">Zpět na
+meziknihovní služby</span></a><br />
+<br />
+<a href="meziknih.htm" target="_blanc"></a></p>
+</center>
+<br />
+<br /></td>
+</tr>
+</table>
+</center>
+</form>
+
+
+<footer>
+    
+    <span>
+        &nbsp;
+    </span>
+</footer>
+
+</body>
+</html>

@@ -1,8 +1,8 @@
-     body{max-width:100%;} 
-     .flex{
-      display:-webkit-flex; display:-moz-flex; display:flex;}
-      .item{flex-grow:1;} .item p{ width: auto; max-width:auto;
-      min-width:auto; } header{ font-size:120%;  background-color:#e67e39; } li.text{
-                  max-width:25em; } header h1{}
- header{padding:0.5em;margin-bottom:  1.5em;}
-
+      /*body{max-width:100%;} */
+      .flex{
+    display:-webkit-flex; display:-moz-flex; display:flex;}
+    .item{flex-grow:1;} .item p{ width: auto; max-width:auto;
+    min-width:auto; } 
+    li.text{
+                max-width:25em; } header h1{}
+        header{padding:0.5em;margin-bottom:  1.5em;}

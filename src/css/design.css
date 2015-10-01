@@ -46,17 +46,47 @@ body.portal .news {
   width:40%;
 }
 
+
 body.portal .news, body.portal .sitemap, body.portal .open-hours{font-size:0.8em;}
 
-body.portal .news h2 {
+body.portal .news .item h2 {
   font-size:1em;
   background-color:#e67e39;
   width:100%;
 }
+body.portal .news > h2 {
+  font-size:1.5em;
+  background-color:#e67e39;
+  width:100%;
+  margin-bottom:0.5em;
+}
 
 body.portal .sitemap menuitem{display:block;}
 
+.portalcontent menuitem menuitem{margin-left: 2em;}
+
+.portal main .sitemap menu{
+}
+
+.portal div.box{
+  margin-bottom:1em;
+}
+
+.portal div.box menuitem menuitem{
+  margin-left:2em;
+  color:red;
+}
+
+div.vystavba{color:gray; font-size:0.8em;}
+
+.portal .boxname{
+  background-color:#e67e39;
+  width:100%;
+}
+
 body.portal .sitemap {margin-right:auto}
+
+
 
 aside.open-hours{
 }
@@ -65,6 +95,9 @@ aside.open-hours h3{
 margin:0;
 }
 
+body.portal aside.open-hours  h5{
+  margin-top:1em;
+}
 footer{
   width:100%;
   background-color:black;
