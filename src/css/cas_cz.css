@@ -1,9 +1,8 @@
 html{
 }
-img{display:inline;}
-h1{
-        color: brown;
-        text-align:center;
+img{
+display:inline;
+margin-bottom:0;
 }
 thead{
 text-align:left;
