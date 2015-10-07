@@ -52,6 +52,9 @@
 {{/children}}
 {{/prov_doba}}
 <span><a href="provozni_doba.htm">Více</a></span>
+<a style="display:block;margin-top:2em;border:none;text-decoration:none;" href="http://www.facebook.com/pages/%C3%9Ast%C5%99edn%C3%AD-knihovna-Pedagogick%C3%A9-fakulty-Univerzity-Karlovy/119305204810664"><img width="120px" height="201px" align="middle" alt="" src="http://badge.facebook.com/badge/119305204810664.737.846454142.png" /></a>
+<a style="display:block;margin-top:1em;border:none;text-decoration:none;" href="http://www.citace.com/citace-pro"><img width="100px" src="http://www.citace.com/images/new/logoCitaceCom.png" alt="" /></a>
+
 </aside>
 </main>
 {{> footer}}

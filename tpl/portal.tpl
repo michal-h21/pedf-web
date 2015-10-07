@@ -25,6 +25,11 @@
 <menuitem>
 <a href="{{url}}">{{name}}</a>
 </menuitem>
+{{#subsubchildren}}
+<menuitem>
+<a href="{{url}}">{{name}}</a>
+</menuitem>
+{{/subsubchildren}}
 {{/subchildren}}
 </menuitem>
 {{/children}}
