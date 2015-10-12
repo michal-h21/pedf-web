@@ -178,7 +178,7 @@ ul {
   }
 
 ol {
-  list-style-type: lower-roman;
+  /* list-style-type: lower-roman; */
   }
 
 h1 {
