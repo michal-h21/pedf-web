@@ -4,7 +4,7 @@
 <meta charset="utf-8" />
 <title>{{title}}</title>
 {{#styles}}
-<link rel="stylesheet" type="text/css" href="{{{.}}}" />
+<link rel="stylesheet" type="text/css" href="/{{{.}}}" />
 {{/styles}}
 
 </head>

@@ -36,11 +36,11 @@ h.span{"&nbsp;"}
 
 M.header = h.emit(h.header{
 h.div{class="vystavba", "Stránky jsou ve výstavbě, děkujeme za pochopení"},
-h.a{href="index.html", h.h1{ "Ústřední knihovna PedF UK"}},
+h.a{href="/index.html", h.h1{ "Ústřední knihovna PedF UK"}},
 h.menu{
   (var("#sitemap")),
   h.menuitem{
-  h.a{href=var("url"), var("name")}},
+  h.a{href="/"..var("url"), var("name")}},
   (var("/sitemap"))
 }})
 M.page = page
