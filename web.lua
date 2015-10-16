@@ -1,3 +1,4 @@
+package.path = "?.lua;"..package.path
 local lettersmith = require("lettersmith")
 local transducers = require "lettersmith.transducers"
 local rss = require "lettersmith.rss"
@@ -14,9 +15,12 @@ local prov_doba = require "prov_doba"
 local templates = require("templates")
 
 
+
+
 -- Get paths from "raw" folder
 local paths = lettersmith.paths("src")
 local aktuality = lettersmith.paths("src/aktuality")
+local diplomka_path = lettersmith.paths("diplomky")
 local comp = require("lettersmith.transducers").comp
 
 local render_mustache = require("lettersmith.mustache").choose_mustache
@@ -36,6 +40,11 @@ end
 local html_filter = make_filter("htm[l]?$")
 
 local css_filter =  make_filter("css$")
+
+local not_diplomky =   transformer(filter(function(doc)
+    local fn = doc.relative_filepath
+    return not fn:match("diplomky/")
+  end))
 
 
 local add_defaults = make_transformer(function(doc)
@@ -86,6 +95,7 @@ local html_builder = comp(
   render_mustache("tpl/",templates),
   add_defaults,
   html_filter,
+  not_diplomky,
   lettersmith.docs
 )
 
@@ -114,7 +124,27 @@ local katalog_portal = comp(
   sitemap_to_portal)
 
 -- Build files, writing them to "www" folder
-lettersmith.build(
+local dipl_builder = comp(
+  render_mustache("tpl/",templates),
+  add_defaults,
+  html_filter,
+  lettersmith.docs
+)
+
+
+local commands = {
+  diplomky = function()
+    print "Tak co?"
+    lettersmith.build(
+    "www/diplomky",
+    dipl_builder(diplomka_path))
+  end
+}
+
+local argument = arg[1]
+if commands[argument] == nil then
+  print "budujeme"
+  lettersmith.build(
   "www", 
   builder(paths), 
   html_builder(paths),
@@ -123,5 +153,14 @@ lettersmith.build(
   index_gen(aktuality),
   katalog_portal("Katalogy a databáze"),
   katalog_portal("Služby")
-)
-
+  )
+  print "Použili jsme defaultní nastavení"
+  print "Použij texlua web.lua prikaz pro alternativní nastavení"
+  print "Dostupné příkazy"
+  for k,_ in pairs(commands) do print("",k) end
+else
+  print("Používám příkaz " ..argument)
+  -- for k,v in lettersmith.docs(paths) do print(k,v) end
+  local prikaz = commands[argument] or function() print("Neznámý příkaz " .. argument) end
+  prikaz()
+end
