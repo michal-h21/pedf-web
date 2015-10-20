@@ -1,7 +1,7 @@
 package.path = "?.lua;"..package.path
 local lettersmith = require("lettersmith")
 local transducers = require "lettersmith.transducers"
-local rss = require "lettersmith.rss"
+local rss = require "atom"
 local map = transducers.map
 local reduce = transducers.reduce
 local filter  = transducers.filter
@@ -106,7 +106,7 @@ local css_builder = comp(
 )
 
 local rss_gen = comp(
-  rss.generate_rss("feed.rss","http://beta.pedf.cuni.cz", "Ústřední knihovna PedF UK", ""),
+  rss.generate_rss("feed.rss","http://knihovna.pedf.cuni.cz", "Ústřední knihovna PedF UK", ""),
   lettersmith.docs
 )
 

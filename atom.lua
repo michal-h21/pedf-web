@@ -10,6 +10,7 @@ local comp = transducers.comp
 local wrap_in_iter = require("lettersmith.plugin_utils").wrap_in_iter
 
 local lustache = require("lustache")
+local discount = require("discount")
 
 local path_utils = require("lettersmith.path_utils")
 
@@ -34,7 +35,7 @@ local rss_template_string = [[
     <title>{{title}}</title>
     {{/title}}
     <link>{{{url}}}</link>
-    <description>{{contents}}></description>
+    <description>{{contents}}</description>
     <pubDate>{{pubdate}}</pubDate>
     {{#author}}
     <author>{{author}}</author>
@@ -52,8 +53,10 @@ local function render_feed(context_table)
 end
 
 local function to_rss_item_from_doc(doc, root_url_string)
-  local title = doc.title
+  local title = doc.title or "Bez titulku"
   local contents = doc.contents
+  local html = discount(contents)
+  contents = html
   local author = doc.author
 
   -- Reformat doc date as RFC 1123, per RSS spec
@@ -69,7 +72,8 @@ local function to_rss_item_from_doc(doc, root_url_string)
   -- Return just the properties we need for the RSS template.
   return {
     title = title,
-    url = pretty_url,
+    -- url = pretty_url,
+    url = root_url_string,
     contents = contents,
     pubdate = pubdate,
     author = author

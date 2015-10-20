@@ -14,8 +14,8 @@
 {{{contents}}}
 <main>
 <article class="news">
-<!-- <h2>Aktuality<a href="feed.rss" style="display:inline-block;margin-left:auto;float:right;margin-right:.3em;margin-top:.3em;"><img src="img/rss-xxl.png" style="width:.8em;height:.8em;" /></a></h2> -->
-<h2>Aktuality</h2>
+<h2>Aktuality<a href="feed.rss" style="display:inline-block;margin-left:auto;float:right;margin-right:.3em;margin-top:.3em;"><img src="img/rss-xxl.png" style="width:.8em;height:.8em;" /></a></h2>
+<!-- <h2>Aktuality</h2> -->
 {{#items}}
 <div class="item">
 <h2>{{date}} {{#akt_title}} - {{akt_title}}{{/akt_title}}</h2>
