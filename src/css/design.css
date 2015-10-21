@@ -49,6 +49,8 @@ body.portal .news {
 
 body.portal .news, body.portal .sitemap, body.portal .open-hours{font-size:0.8em;}
 
+body.portal .open-hours td:first-child{padding-right:.5em;}
+
 body.portal .news .item h2 {
   font-size:1em;
   background-color:#e67e39;
