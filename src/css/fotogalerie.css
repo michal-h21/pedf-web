@@ -1,18 +1,9 @@
 a {
   font-family: Helvetica, Ariel, sans-serif;
-        font-size: 12px;
         font-style: normal;
         font-weight: bold;      
         text-decoration: underline;
         color: blue;
-}
-a:hover {
-        font-family: Helvetica, Ariel, sans-serif;
-        font-size: 12px;
-        font-style: italic;
-        font-weight: bold;      
-        text-decoration: underline;
-  color: red;
 }
 a:active {
         font-family: Helvetica, Ariel, sans-serif;

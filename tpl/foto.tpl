@@ -11,12 +11,21 @@
   <script src="js/lightbox.min.js"></script>
 
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Karla%7CMontserrat">
-  <link rel="stylesheet" href="css/screen.css">
-  <link rel="stylesheet" href="css/lightbox.css">
-  <link rel="stylesheet" href="css/scale.css" />
+  <link rel="stylesheet" href="/css/screen.css">
+  <link rel="stylesheet" href="/css/lightbox.css">
+  <link rel="stylesheet" href="/css/scale.css" />
+  <link rel="stylesheet" href="/css/design.css">
+<style type="text/css">
+div.body a{display:inline-block;}
+</style>
 </head>
 <body>
-{{content}}
+{{> header}}
+<div class="body">
+<h1>{{title}}</h1>
+{{{contents}}}
+</div>
+{{> footer}}
 </body>
 </html>
 
