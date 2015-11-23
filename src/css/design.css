@@ -122,3 +122,13 @@ footer{
   font-size:1.2rem;
   color:black;
 }
+
+
+@media  print{
+  a{
+    text-decoration:none;
+    border-bottom:none;
+  }
+  header, footer{display:none;}
+
+}

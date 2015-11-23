@@ -284,14 +284,14 @@ sup a {
     border: 0;
     }
 
-  a[href]:after {
-    content: " (" attr(href) ")";
-    }
+  /* a[href]:after { */
+  /*   content: " (" attr(href) ")"; */
+  /*   } */
 
-  a[href^="javascript:"]:after,
-  a[href^="#"]:after {
-    content: "";
-    }
+  /* a[href^="javascript:"]:after, */
+  /* a[href^="#"]:after { */
+  /*   content: ""; */
+  /*   } */
 
   }
 
