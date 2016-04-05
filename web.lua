@@ -9,6 +9,7 @@ local lazy = require "lettersmith.lazy"
 local transform = lazy.transform
 local transformer = lazy.transformer
 local index = require("index").index
+local archiv = require("archivaktual").index
 local merge = require("lettersmith.table_utils").merge
 local sitemap = require "sitemap"
 local prov_doba = require "prov_doba"
@@ -119,6 +120,13 @@ local index_gen = comp(
   lettersmith.docs
 )
 
+local archive_gen = comp(
+  render_mustache("tpl/", templates),
+  add_sitemap,
+  archiv("archiv.html"),
+  lettersmith.docs
+)
+
 local katalog_portal = comp(
   render_mustache("tpl/",templates),
   sitemap_to_portal)
@@ -150,6 +158,7 @@ if commands[argument] == nil then
   html_builder(paths),
   css_builder(paths), 
   rss_gen(aktuality),
+  archive_gen(aktuality),
   index_gen(aktuality),
   katalog_portal("Katalogy a databáze"),
   katalog_portal("Služby")
