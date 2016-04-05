@@ -1,24 +1,3 @@
-a {font-family: Helvetica, Ariel, sans-serif;
-        font-size: 12px;
-        font-style: normal;
-        font-weight: bold;      
-  background-color: none;
-        text-decoration: underline;
-        color: blue;}
-a:hover {font-family: Helvetica, Ariel, sans-serif;
-        font-size: 12px;
-        font-style: normal;
-        font-weight: bold;      
-  background-color: none;
-        text-decoration: underline;
-      color: blue;}
-a:active {font-family: Helvetica, Ariel, sans-serif;
-        font-size: 12px;
-        font-style: normal;
-        font-weight: bold;      
-  background-color: none;
-        text-decoration: underline;
-  color: blue;}
 .z0 {font-family: Ariel, Times New Roman, Verdana;
      font-size: 22pt;
      font-style: normal;
