@@ -4,44 +4,44 @@
      font-weight: bold;
      text-decoration: none;
      color: brown;}
-.z1 {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+.z1 {
      font-size: 10pt;
      font-weight: bold;
      color: blue;}
-.z2 {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+.z2 {
      font-size: 10pt;
      font-weight: bold;
      color: blue;}
-.z3 {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+.z3 {
      font-size: 10pt;
      font-weight: bold;
      color: blue;}
-.z4 {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+.z4 {
      font-size: 11pt;
      font-style: normal;
      font-weight: bold;
      color: brown;}
-.z5 {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
-     font-size: 11pt;
+.z5 {
+     font-size: 1em;
      font-style: normal;
      font-weight: bold;
      color: black;}
-.z6 {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+.z6 {
      font-size: 13pt;
      font-style: normal;
      font-weight: bold;
      color: brown;}
-.z7 {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+.z7 {
      font-size: 11pt;
      font-style: normal;
      font-weight: bold;
      color: blue;}
-.z8 {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+.z8 {
      font-size: 10pt;
      font-style: normal;
      font-weight: bold;
      color: red;}
-.zz {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+.zz {
      font-size: 10pt;
      font-weight: bold;
      text-decoration: none;
@@ -70,17 +70,21 @@ text-align:center;
         border-spacing:1em;
 }
 .main .nadpis, .nadpis .z5{
-        font-size: 16pt;
-        font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
         font-style: normal;
         font-weight: bold;
         color: black;
 }
 th {
-        font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+   
         font-size:10pt;
 }
 .nadpisek .z5{
         padding-top:.5em;
         font-size:12pt;
 }
+
+h2#uzavreni{font-weight:bold;}
+
+table#zavr-table tr td:first-child{font-weight:bold;}
+
+
