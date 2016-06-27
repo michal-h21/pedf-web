@@ -22,7 +22,6 @@
      font-weight: bold;
      color: brown;}
 .z5 {
-     font-size: 1em;
      font-style: normal;
      font-weight: bold;
      color: black;}
@@ -66,6 +65,8 @@ margin-right:auto;
 h1,h2,h3{
 text-align:center;
 }
+
+header h1{text-align:left;}
 .main, .main tr, .main td{
         border-spacing:1em;
 }

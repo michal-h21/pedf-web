@@ -2,7 +2,9 @@ html{
 }
 img{
 display:inline;
+margin:0.1em;
 margin-bottom:0;
+width:.6em;
 }
 thead{
 text-align:left;
