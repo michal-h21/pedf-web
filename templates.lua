@@ -35,7 +35,7 @@ h.span{"&nbsp;"}
 })
 
 M.header = h.emit(h.header{
-h.div{class="vystavba", "Stránky jsou ve výstavbě, děkujeme za pochopení"},
+-- h.div{class="vystavba", "Stránky jsou ve výstavbě, děkujeme za pochopení"},
 h.a{href="/index.html", h.h1{ "Ústřední knihovna PedF UK"}},
 h.menu{
   (var("#sitemap")),
