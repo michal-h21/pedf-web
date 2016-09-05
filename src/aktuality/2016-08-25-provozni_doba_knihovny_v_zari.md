@@ -24,7 +24,7 @@ Z důvodu stěhování části fondu do Archivu UK bude provoz knihovny v průb�
 **Studovna Anglického jazyka a literatury v Celetné** 
 
 <table>
-<tr><td>Po–Pá</td><td>13.00–16.00</td></tr>
+<tr><td>Po + Pá</td><td>13.00–16.00</td></tr>
 
 <tr><td>St</td><td>9.00–12.00 </td></tr>
 </table>
