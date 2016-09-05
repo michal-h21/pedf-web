@@ -1,0 +1,15 @@
+/*body{max-width:100%;} */
+.flex{
+  display:-webkit-flex; display:-moz-flex; display:flex;
+}
+.item{flex-grow:1;} 
+.down p, .item p{
+  width: auto; max-width:auto;
+  min-width:auto; 
+} 
+.down{-webkit-flex-direction:column;-moz-flex-direction:column;flex-direction:column;}
+li.text{
+  max-width:25em; 
+} 
+header h1{}
+header{padding:0.5em;margin-bottom:  1.5em;}

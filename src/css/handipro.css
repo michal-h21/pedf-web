@@ -1,60 +1,60 @@
 ul {list-style-type: none;
 }
-.z0 {font-family: Ariel, Times New Roman, Verdana;
+.z0 {
      font-size: 22pt;
      font-style: normal;
      font-weight: bold;
      text-decoration: none;
      color: brown;}
-.z1 {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+.z1 {
      font-size: 10pt;
      font-style: normal;
      font-weight: bold;
      color: black;}
-.z2 {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+.z2 {
      font-size: 10pt;
      font-weight: bold;
      font-style: italic;
      color: black;}
-.z3 {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+.z3 {
      font-size: 10pt;
      font-style: none;
      font-weight: bold;
      color: black;}
-.z4 {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+.z4 {
      font-size: 10pt;
      font-style: italic;
      font-weight: bold;
      color: black;}
-.z5 {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+.z5 {
      font-size: 10pt;
      font-style: none;
      text-decoration: underline;
      font-weight: bold;
      color: blue;}
-.z6 {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+.z6 {
      font-size: 10pt;
      font-style: none;
      text-decoration: none;
      font-weight: bold;
      color: black;}
-.z7 {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+.z7 {
      font-size: 10pt;
      font-style: none;
      text-decoration: none;
      font-weight: bold;
      color: black;}
-.z8 {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+.z8 {
      font-size: 12pt;
      font-style: normal;
      font-weight: bold;
      color: black;}
-.z9 {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+.z9 {
      font-size: 10pt;
      font-weight: bold;
      text-decoration: none;
      color: blue;}
-.zz {font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+.zz {
      font-size: 10pt;
      font-weight: bold;
      text-decoration: none;

@@ -2,12 +2,12 @@
 /* start css.sty */
 .ecrm-1728{font-size:170%;}
 .ecrm-1200{font-size:120%;}
-.ectt-1000{ font-family: monospace;}
-.ectt-1000{ font-family: monospace;}
-.ectt-1000{ font-family: monospace;}
-.ectt-1000{ font-family: monospace;}
-.ectt-1000{ font-family: monospace;}
-.ectt-1000{ font-family: monospace;}
+.ectt-1000{ }
+.ectt-1000{ }
+.ectt-1000{ }
+.ectt-1000{ }
+.ectt-1000{ }
+.ectt-1000{ }
 .ecti-1000{ font-style: italic;}
 .ecti-1000{ font-style: italic;}
 .ecti-1000{ font-style: italic;}
@@ -46,7 +46,7 @@ div.obeylines-v p { margin-top:0; margin-bottom:0; }
 td.displaylines {text-align:center; white-space:nowrap;}
 .centerline {text-align:center;}
 .rightline {text-align:right;}
-div.verbatim {font-family: monospace; white-space: nowrap; text-align:left; clear:both; }
+div.verbatim { }
 .fbox {padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
 div.fbox {display:table}
 div.center div.fbox {text-align:center; clear:both; padding-left:3.0pt; padding-right:3.0pt; text-indent:0pt; border:solid black 0.4pt; }
