@@ -116,7 +116,7 @@ body.portal div.box h3.boxname{
 
 
 body.portal .sitemap {margin-right:auto}
-body.portal .sitemap h3.boxname a{color:black; border:none;}
+body.portal .sitemap h3.boxname a, body.portal .open-hours h3 a{color:black; border:none;}
 
 
 aside.open-hours h3 {}

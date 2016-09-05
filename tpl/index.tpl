@@ -42,7 +42,7 @@
 {{/sitemap}}
 </aside>
 <aside class="open-hours">
-<h3>Provozní doba</h3>
+<h3><a href="provozni_doba.htm">Provozní doba</a></h3>
 {{#prov_doba}}
 <h4>{{comment}}</h4>
 {{#children}}
