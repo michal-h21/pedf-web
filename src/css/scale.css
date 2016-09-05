@@ -101,7 +101,9 @@ img::-moz-selection {
 --------------------------------------------- */
 
 body {
-  font: 75%/1.5em Georgia, serif;
+  /* font: 75%/1.5em Georgia, serif; */
+  font: 75%/1.5em 'Oxygen', sans-serif;
+
   max-width: 40.49984em;
   color: rgb(0,0,0);
   margin: 0 auto;

@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <title>{{title}}</title>
+<link href="https://fonts.googleapis.com/css?family=Oxygen:400,700&amp;subset=latin-ext" rel="stylesheet"> 
 <link rel="stylesheet" type="text/css" href="/css/scale.css" />
 <link rel="stylesheet" type="text/css" href="/css/design.css" />
 {{#styles}}
@@ -14,7 +15,7 @@
 {{{contents}}}
 <main>
 <article class="news">
-<h2>Aktuality<a href="feed.rss" style="display:inline-block;margin-left:auto;float:right;margin-right:.3em;margin-top:.3em;"><img src="img/rss-xxl.png" style="width:.8em;height:.8em;" /></a></h2>
+<h2>Aktuality<a href="feed.rss" style="display:inline-block;margin-left:auto;float:right;margin-right:.2em;margin-top:.2em;margin-bottom:0;"><img src="img/rss-xxl.png" style="width:.8em;height:.8em;" /></a></h2> 
 <!-- <h2>Aktuality</h2> -->
 {{#items}}
 <div class="item">
