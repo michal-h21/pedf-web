@@ -29,6 +29,6 @@ Z důvodu stěhování části fondu do Archivu UK bude provoz knihovny v průb�
 <tr><td>St</td><td>9.00–12.00 </td></tr>
 </table>
 
-Výpůjčky můžete vracet v biblioboxu umístěném ve vestibulu hlavní budovy fakulty vedle vrátnice.
+Výpůjčky z knihovny v Rettigové můžete vracet v biblioboxu umístěném ve vestibulu hlavní budovy fakulty vedle vrátnice.
 
 Za omezený provoz se omlouváme a děkujeme za pochopení.

@@ -6,6 +6,6 @@ title: Autorské čtení slovenských literátů
 literatury PedF UK srdečně zve studenty, zaměstnance a další zájemce na
 **autorské čtení slovenských literátů a jejich hostů s besedou a hudebním
 doprovodem**. Pozvání přijali: *Zuzana Kuglerová, Miroslav Bielik, Ondrej Kalamár*
-a *Ján Tazberík*. Hudební doprovod: *Marie Dunovská* a přátelé. Akce se uskuteční
+a *Ján Tazberík*. Hudební doprovod: *Marie Dunovská*. Akce se uskuteční
 ve středu **5. října 2016 od 17 hodin** ve studovně Ústřední knihovny PedF UK,
 Magdalény Rettigové 4, Praha 1.
