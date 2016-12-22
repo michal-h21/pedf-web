@@ -43,7 +43,7 @@ h.menu{
   h.a{href="/"..var("url"), var("name")}},
   (var("/sitemap"))
 },
-h.a{href="/index.html", h.img{src="img/rilke_slider.jpg", css="width:100%"}}
+-- h.a{href="/index.html", h.img{src="img/rilke_slider.jpg", css="width:100%"}}
 })
 M.page = page
  return M
