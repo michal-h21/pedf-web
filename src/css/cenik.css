@@ -1,8 +1,25 @@
-                        p{text-indent:0;}
-                        td{width:20em;
-                                text-align:center;
-                        }
-                        td:first-child{
-                                width:40em;
-                        }
-                        .odsadit{margin-left:2em;}
+.titulek,.radek{
+  display:block;
+}
+.radek,.titulek{max-width:70%;margin-right:auto;}
+.radek:after{  content: "\A";
+       white-space: pre; }
+.titulek{font-weight:bold;}
+.cena{
+  float:right;
+  //margin-left:auto;
+  display:block;
+  clear:both;
+  max-width:25%;
+  //width:auto;
+  //margin-top:-1em;
+  text-align:right;
+  //margin-top:-1em;
+}
+.entry{clear:both;}
+body{
+  max-width:40em;
+  margin:0 auto;
+}
+li{margin-bottom:1em;}
+.vysvetlivka{font-size:0.8em;display:block;}
