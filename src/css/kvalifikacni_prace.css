@@ -1,23 +1,15 @@
-.z0 {
-     font-size: 22pt;
-     font-style: normal;
-     font-weight: bold;
-     text-decoration: none;
-     color: brown;}
-.z1 {
-     font-size: 10pt;
-     font-weight: bold;
-     color: blue;}
-.z2 {
-     font-size: 10pt;
-     font-weight: bold;
-     color: blue;}
-.z3 {
-     font-size: 10pt;
-     font-weight: bold;
-     color: black;}
-.z4 {
-     font-size: 10pt;
-     font-style: normal;
-     font-weight: bold;
-     color: blue;}
+
+article h2{
+  font-size:1.3rem;
+  margin-top:0.5em;
+  margin-bottom:0.2em;
+}
+
+article h3{
+  font-size:1.1rem;
+  margin-top:0.3rem;
+}
+p {
+   margin-bottom: 0em;
+   margin-top: 0.3em;
+}
