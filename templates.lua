@@ -41,7 +41,8 @@ h.menu{
   (var("#sitemap")),
   h.menuitem{
   h.a{href="/"..var("url"), var("name")}},
-  (var("/sitemap"))
+  (var("/sitemap")),
+  h.a{style="float:right;margin-right:.5em;",href="library.html", "en"}
 },
 -- h.a{href="/index.html", h.img{src="img/tamara-buckova-ende.jpg", css="width:100%"}}
 })
