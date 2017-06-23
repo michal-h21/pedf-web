@@ -3,7 +3,7 @@ title: Webinář Digitální knihovna ve Vašem počítači
 ---
 
 Společnost Ebsco v únoru pořádá webináře, kterých se zdarma může kdokoliv
-zúčastnit. Tentokrát bychom Vás rádi pozvali k něterému z webinářů zaměřených
+zúčastnit. Tentokrát bychom Vás rádi pozvali k některému z webinářů zaměřených
 na problematiku *elektronických knih, EBSCO eBooks*, kde se mimo jiné dozvíte,
 *jak stahovat eKnihy do počítače a čtečky*, zaměříme se také na novou aplikaci
 *EBSCO eBooks App* a ukážeme si, jak nastavit počítač ke stahování eKnih. 

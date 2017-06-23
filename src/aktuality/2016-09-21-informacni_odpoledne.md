@@ -4,7 +4,7 @@ title: Informační odpoledne
 
 Ústřední knihovna pořádá informační školení pro studenty prvního ročníku studia. 
 
-- Centrální katalog knihoven UK, jak v něm vyhledávávat a na co dávat pozor
+- Centrální katalog knihoven UK, jak v něm vyhledávat a na co dávat pozor
 - uživatelské konto a k čemu slouží
 - elektronické zdroje (databáze, e-časopisy, e-knihy atd.)
 - studovna a co v ní najdete
