@@ -64,8 +64,10 @@ margin-right:auto;
 }
 h1,h2,h3{
 text-align:center;
+font-weight:bold;
 }
 
+h3.small{font-size:1.2em;}
 header h1{text-align:left;}
 .main, .main tr, .main td{
         border-spacing:1em;

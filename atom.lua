@@ -11,7 +11,7 @@ local wrap_in_iter = require("lettersmith.plugin_utils").wrap_in_iter
 
 local lustache = require("lustache")
 local discount = require("discount")
-
+ 
 local path_utils = require("lettersmith.path_utils")
 
 local docs = require("lettersmith.docs_utils")
