@@ -1,0 +1,7 @@
+table#brandys {
+  border-collapse: collapse;
+}
+
+table#brandys, #brandys th, #brandys td {
+      border: 1px solid black;
+    }
