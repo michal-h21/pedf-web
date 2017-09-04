@@ -1,16 +1,16 @@
 return {
-  comment = "V průběhu srpna bude mít knihovna omezený provoz",
-  children = {
-    {name = "Výpůjční protokol + studovna",
-     data = {
-       {day="1.8", time = "9.00–15.00"},
-       {day="8.8", time = "9.00–15.00"},
-       {day="15.8", time = "9.00–15.00"},
-       {day="22.8", time = "9.00–15.00"},
-       {day="29.8", time = "9.00–15.00"},
-       -- {day="Pá", time = "8.00 - 17.00"},
-     }
-    },
+  -- comment = "V průběhu srpna bude mít knihovna omezený provoz",
+  -- children = {
+  --   {name = "Výpůjční protokol + studovna",
+  --    data = {
+  --      {day="1.8", time = "9.00–15.00"},
+  --      {day="8.8", time = "9.00–15.00"},
+  --      {day="15.8", time = "9.00–15.00"},
+  --      {day="22.8", time = "9.00–15.00"},
+  --      {day="29.8", time = "9.00–15.00"},
+  --      -- {day="Pá", time = "8.00 - 17.00"},
+  --    }
+  --   },
     -- {
     --   name = "Studovna",
     --   data = {
@@ -27,27 +27,27 @@ return {
     --     {day="St", time = "9.00–12.00"},
     --   }
     -- }
-  }
-  -- comment = "V průběhu září bude mít knihovna omezený provoz",
-  -- children = {
-  --   {name = "Výpůjční protokol",
-  --    data = {
-  --      {day="5.9.–9.9.", time = "8.00–16.00"},
-  --      {day="13.9.", time = "8.00–16.00"},
-  --      {day="20.9.", time = "8.00–16.00"},
-  --      {day="27.9.", time = "8.00–16.00"},
-  --      -- {day="Pá", time = "8.00 - 17.00"},
-  --    }
-  --   },
-  --   {
-  --     name = "Studovna",
-  --     data = {
-  --      {day="Po–Pá", time = "8.00–16.00"},
-  --      -- {day="Út", time = "8.00 - 18.00"},
-  --      -- {day="St", time = "8.00 - 18.00"},
-  --      -- {day="Čt", time = "8.00 - 18.00"},
-  --    }
-  --   },
+  -- }
+  comment = "V průběhu září bude mít knihovna omezený provoz",
+  children = {
+    {name = "Výpůjční protokol",
+     data = {
+       {day="Po-Pá", time = "8.00–16.00"},
+       -- {day="13.9.", time = "8.00–16.00"},
+       -- {day="20.9.", time = "8.00–16.00"},
+       -- {day="27.9.", time = "8.00–16.00"},
+       -- {day="Pá", time = "8.00 - 17.00"},
+     }
+    },
+    {
+      name = "Studovna",
+      data = {
+       {day="Po–Pá", time = "8.00–16.00"},
+       -- {day="Út", time = "8.00 - 18.00"},
+       -- {day="St", time = "8.00 - 18.00"},
+       -- {day="Čt", time = "8.00 - 18.00"},
+     }
+    },
   --   {
   --     name = "Studovna SAJL",
   --     data = {
@@ -95,4 +95,4 @@ return {
   --     }
   --   }
   -- }
-}
+}}
