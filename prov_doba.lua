@@ -28,11 +28,12 @@ return {
     --   }
     -- }
   -- }
-  comment = "V průběhu září bude mít knihovna omezený provoz",
+  comment = "",
   children = {
     {name = "Výpůjční protokol",
      data = {
-       {day="Po-Pá", time = "8.00–16.00"},
+       {day="Po", time = "8.00 – 16.00"},
+       {day="Út–pá", time = "8.00 – 17.00"},
        -- {day="13.9.", time = "8.00–16.00"},
        -- {day="20.9.", time = "8.00–16.00"},
        -- {day="27.9.", time = "8.00–16.00"},
@@ -42,12 +43,16 @@ return {
     {
       name = "Studovna",
       data = {
-       {day="Po–Pá", time = "8.00–16.00"},
-       -- {day="Út", time = "8.00 - 18.00"},
+       {day="Po–čt", time = "8.00 – 18.00"},
+       {day="Pá", time = "8.00 - 16.00"},
        -- {day="St", time = "8.00 - 18.00"},
        -- {day="Čt", time = "8.00 - 18.00"},
      }
     },
+    -- {
+    --   name = "2. 10. 2017",
+    --   data = { day = "Sanitární den"}
+    -- },
   --   {
   --     name = "Studovna SAJL",
   --     data = {
