@@ -28,7 +28,7 @@ local index = function(filepath)
   return function(iter, ...)
     local items = into(take_news, iter, ...)
     local date = items[1].date
-    local title = "Ústřední knihovna PedF UK"
+    local title = "Knihovna PedF UK"
     return wrap_in_iter {template = "index.tpl", title=title, date = date, items = items, relative_filepath = filepath}
   end
 end

@@ -107,7 +107,7 @@ local css_builder = comp(
 )
 
 local rss_gen = comp(
-  rss.generate_rss("feed.rss","http://knihovna.pedf.cuni.cz", "Ústřední knihovna PedF UK", ""),
+  rss.generate_rss("feed.rss","http://knihovna.pedf.cuni.cz", "Knihovna PedF UK", ""),
   lettersmith.docs
 )
 
