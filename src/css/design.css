@@ -74,6 +74,18 @@ aside.open-hours, aside.sitemap{
   max-width:14rem;
 }
 
+main.portalcontent aside.sitemap{
+  max-width: 100%;
+}
+
+main.portalcontent aside.sitemap menuitem:before{
+  content: "•";
+  color:black;
+}
+main.portalcontent aside.sitemap div.box h3.boxname{
+  background-color: none;
+}
+
 body.portal .news, body.portal .sitemap, body.portal .open-hours{font-size:0.9em;}
 
 body.portal .open-hours td:first-child{padding-right:.5em;}
