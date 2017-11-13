@@ -40,6 +40,7 @@ header img{
   padding-left:-3px;
 }
 
+header a{color:black;}
 header menu a{
   color: rgb(200,200,200);
   text-decoration:none;
@@ -141,6 +142,12 @@ aside.open-hours h4{
 body.portal aside.open-hours  h5, body.portal aside.open-hours h4{
   margin-top:1em;
 }
+
+body.portal aside a{
+  border-bottom: 1px solid rgb(200,200,200);
+  color: rgb(80,80,80);
+}
+
 footer{
   width:100%;
   background-color:black;

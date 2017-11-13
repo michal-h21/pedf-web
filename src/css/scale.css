@@ -257,9 +257,9 @@ img {
 --------------------------------------------- */
 
 a {
-  border-bottom: 1px solid rgb(200,200,200);
+  border-bottom: 1px solid #e67e39;
   text-decoration: none;
-  color: rgb(80,80,80);
+  color: #e67e39;
   }
 
 a:hover {
