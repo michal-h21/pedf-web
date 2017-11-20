@@ -86,8 +86,9 @@ th {
         font-size:12pt;
 }
 
-h2#uzavreni{font-weight:bold;}
+h2#uzavreni,h2#uzavreni18{font-weight:bold;}
 
 table#zavr-table tr td:first-child{font-weight:bold;}
+table#zavr-table18 tr td:first-child{font-weight:bold;}
 
 
