@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?> 
 <?xml-stylesheet href="pruvodce.css" type="text/css"?> 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="348.51137pt" height="238.1501pt" viewBox="2.75 -283.80003 348.51137 238.1501 "> 
-<g transform="translate(0, -45.64993 ) scale(1,-1) translate(0,283.80003 )"> 
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="348.51137pt" height="237.60007pt" viewBox="2.75 -283.80003 348.51137 237.60007 "> 
+<g transform="translate(0, -46.19997 ) scale(1,-1) translate(0,283.80003 )"> 
 <g>
  <g stroke="rgb(0.0%,0.0%,0.0%)">
  <g fill="rgb(0.0%,0.0%,0.0%)">
@@ -155,7 +155,7 @@ Studovna</text>
  <g stroke-dasharray="none" stroke-dashoffset="0.0pt">
  <g stroke-linejoin="miter">
  <g fill="rgb(100.0%,100.0%,100.0%)">
- <path d=" M  278.85007 -222.19997 L  278.85007 -228.25 L  293.69997 -228.25 L  293.69997 -222.19997 Z  " style="stroke:none"/>
+ <path d=" M  278.85007 -222.19997 L  278.85007 -223.85007 L  293.69997 -223.85007 L  293.69997 -222.19997 Z  " style="stroke:none"/>
  <g stroke="rgb(0.0%,0.0%,0.0%)">
  <path d=" M  278.85007 -222.19997 L  278.85007 -228.25 L  293.69997 -228.25 L  293.69997 -222.19997 Z  " style="fill:none"/>
  <g stroke-width="1.10007pt">
@@ -173,7 +173,7 @@ Studovna</text>
  <g fill="rgb(100.0%,100.0%,100.0%)">
  <path d=" M  276.64993 -46.19997 L  276.64993 -51.14993 L  290.94997 -51.14993 L  290.94997 -46.19997 Z  " style="stroke:none"/>
  <g stroke="rgb(0.0%,0.0%,0.0%)">
- <path d=" M  276.64993 -46.19997 L  276.64993 -51.14993 L  290.94997 -51.14993 L  290.94997 -46.19997 Z  " style="fill:none"/>
+ <path d=" M  276.64993 -47.30003 L  276.64993 -51.14993 L  290.94997 -51.14993 L  290.94997 -47.30003 Z  " style="fill:none"/>
  <g stroke-width="1.10007pt">
  <g stroke-dasharray="none" stroke-dashoffset="0.0pt">
  <g stroke-dasharray="none" stroke-dashoffset="0.0pt">
@@ -204,7 +204,7 @@ Studovna</text>
  <g stroke="rgb(0.0%,0.0%,0.0%)">
  <g>
  <g>
- <g transform="matrix(1.0,0.0,0.0,1.0,266.23308,-64.62209)">
+ <g transform="matrix(1.0,0.0,0.0,1.0,266.23308,-61.32222)">
  <g fill="rgb(0.0%,0.0%,0.0%)">
  <text style="stroke:none" transform="scale(1,-1) translate(40.84766,0)" text-anchor="middle"  font-size="10"> 
 Výpůjční protokol</text> 
@@ -230,7 +230,7 @@ Hlavní vchod do budovy</text>
  <g fill="rgb(100.0%,100.0%,100.0%)">
  <path d=" M  85.25 -278.30003 L  85.25 -282.14993 L  105.05003 -282.14993 L  105.05003 -278.30003 Z  " style="stroke:none"/>
  <g stroke="rgb(0.0%,0.0%,0.0%)">
- <path d=" M  85.25 -278.30003 L  85.25 -282.14993 L  105.05003 -282.14993 L  105.05003 -278.30003 Z  " style="fill:none"/>
+ <path d=" M  85.25 -278.30003 L  85.25 -283.25 L  105.05003 -283.25 L  105.05003 -278.30003 Z  " style="fill:none"/>
  <g stroke="rgb(0.0%,0.0%,0.0%)">
  <g>
  <g>
