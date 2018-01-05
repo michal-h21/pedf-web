@@ -1,23 +1,9 @@
-.z0 {
-     font-size: 22pt;
-     font-style: normal;
-     font-weight: bold;
-     text-decoration: none;
-     color: brown;}
-.z1 {
-     font-size: 10pt;
-     font-weight: bold;
-     color: black;}
-.z2 {
-     font-size: 10pt;
-     font-weight: bold;
-     color: black;}
-.z3 {
-     font-size: 10pt;
-     font-weight: bold;
-     color: blue;}
-.zz {
-     font-size: 10pt;
-     font-weight: bold;
-     text-decoration: none;
-     color: blue;}
+div.row{
+  display:flex;
+  flex-direction:row;
+}
+
+div.col-sm-6 + div.col-sm-6{
+  margin-left:6em;
+}
+
