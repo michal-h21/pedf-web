@@ -1,6 +1,7 @@
 ---
 title: Přístup k Oxford English Dictionary
 img: /img/oxford-aktual.jpg
+alt:  "Foto: Cassidy Kelley/Unsplash"
 ---
 
 Získali jsme přístup k elektronického slovníku [Oxford English Dictionary](http://www.oed.com/). 
