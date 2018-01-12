@@ -1,5 +1,6 @@
 ---
 title: Přístup k Oxford English Dictionary
+img: /img/oxford-aktual.jpg
 ---
 
 Získali jsme přístup k elektronického slovníku [Oxford English Dictionary](http://www.oed.com/). 

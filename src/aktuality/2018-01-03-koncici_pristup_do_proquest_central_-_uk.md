@@ -1,5 +1,7 @@
 ---
 title: Končící přístup do ProQuest Central - UK
+img: /img/proquest-aktual.jpg
+alt: Autorské údaje
 ---
 
 Ke konci ledna končí předplatné kolekce [ProQuest
