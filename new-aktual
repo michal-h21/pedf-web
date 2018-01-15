@@ -9,6 +9,9 @@ echo $filename
 
 echo "---" > $filename
 echo title: $title >> $filename
+echo hide: \"2199-12-31\" >> $filename
+echo alt: alt text >> $filename
+echo img: img file >> $filename
 echo --- >> $filename
 
 vim $filename
