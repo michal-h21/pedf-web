@@ -6,23 +6,24 @@ styles: ["css/kontaktni_adresa.css"]
 <!-- styles: ["css/kontaktni_adresa.css"] -->
 
 <h1>Kontakty a adresa</h1>
-<div class="container">
+<div class="container"  itemscope itemtype="http://schema.org/Organization">
+  <meta itemprop="name" content="Knihovna PedF UK" />
   <div class="row">
     <div class="col-sm-6">
       <h2>Kontaktní adresa</h2>
-      <ul>
+      <ul itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
         <li>Univerzita Karlova </li>
         <li>Pedagogická fakulta</li>
         <li>Knihovna</li>
-        <li>Magdalény Rettigové 4</li>
-        <li>116 39 Praha 1</li>
+        <li itemprop="streetAddress">Magdalény Rettigové 4</li>
+        <li><span itemprop="postalCode">116 39</span>  <span itemprop="addressLocality">Praha 1</span></li>
       </ul>
     </div>
     <div class="col-sm-6">
       <h2>Vedoucí</h2>
       <ul>
-        <li>PhDr. Zuzana Formanová&#160;</li>
-        <li>tel. číslo: +420 221 900 223&#160;</li>
+        <li>PhDr. Zuzana Formanová</li>
+        <li>tel. číslo: <a href="tel:+420221900223">+420 221 900 223</a></li>
         <li>e-mail: <a href="mailto:zuzana.formanova@pedf.cuni.cz" title= "">zuzana.formanova@pedf.cuni.cz</a></li>
       </ul>
     </div>
@@ -32,11 +33,11 @@ styles: ["css/kontaktni_adresa.css"]
       <h2>Další kontakty</h2>
       <ul>
 
-        <li>Výpůjční protokol : +420 221 900 148</li>
+        <li>Výpůjční protokol : <a href="+420221900148">+420 221 900 148</a></li>
 
-        <li>Studovna: +420 221 900 178</li>
-        <li>e-mail: <a href="mailto:knihovna@pedf.cuni.cz" title= "">knihovna@pedf.cuni.cz</a></li>
-        <li>web: <a href="http://knihovna.pedf.cuni.cz/" title= "">knihovna.pedf.cuni.cz</a></li>
+        <li>Studovna: <a href="+420221900178">+420 221 900 178</a></li>
+        <li>e-mail: <a itemprop="email" href="mailto:knihovna@pedf.cuni.cz" title= "">knihovna@pedf.cuni.cz</a></li>
+        <li>web: <a  itemprop="url" href="http://knihovna.pedf.cuni.cz/" title= "">knihovna.pedf.cuni.cz</a></li>
       </ul>
     </div>
     <div class="col-sm-6">
