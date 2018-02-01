@@ -1,0 +1,7 @@
+div.rok{
+  max-width:40rem;
+  display:flex;
+  flex-flow: row wrap;
+  margin-bottom:4rem;
+}
+div.mesic{max-width:20rem;min-width:10rem;margin-right:1rem;margin-bottom:1rem;}
