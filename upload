@@ -1,2 +1,2 @@
 !#/usr/bin/bash
-cd www && rsync -avz . beta:/var/www/html/
+# cd www && rsync -avz . beta:/var/www/html/
