@@ -5,5 +5,5 @@ serve: build
 	python server.py
 
 upload: build
-	./upload
+	# ./upload
 
