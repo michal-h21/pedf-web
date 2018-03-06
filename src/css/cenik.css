@@ -7,19 +7,15 @@
 .titulek{font-weight:bold;}
 .cena{
   float:right;
-  //margin-left:auto;
+  /* //margin-left:auto; */
   display:block;
   clear:both;
   max-width:25%;
-  //width:auto;
-  //margin-top:-1em;
+  /* //width:auto; */
+  /* //margin-top:-1em; */
   text-align:right;
-  //margin-top:-1em;
+  /* //margin-top:-1em; */
 }
 .entry{clear:both;}
-body{
-  max-width:40em;
-  margin:0 auto;
-}
 li{margin-bottom:1em;}
 .vysvetlivka{font-size:0.8em;display:block;}
