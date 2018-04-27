@@ -1,13 +1,15 @@
 ---
 title: Tematický večer s Eduardem Štorchem
-hide: "2018-04-30"
+hide: "2018-04-27"
 alt: Aktovka
-img: /img/aktovka.jpg
+img: /img/aktovka.png
 ---
 
-Ve čtvrtek 26. dubna 2018 pořádáme ve studovně Knihovny PedF od 18 hodin
-tematický večer s Eduardem Štorchem. Jedná se nejen o vzpomínku na 
-tohoto spisovatele a učitele, ale zejména představení digitální verze 
-jeho knihy Dětská farma (1. vydání tiskem  v r. 1929).
+Zveme Vás do studovny na Podvečer s Eduardem Štorchem. Připomeneme práci tohoto
+spisovatele a pedagoga a poprvé uvidíte elektronickou verzi Štorchovy knihy
+Dětská farma. Na digitalizaci se podíleli Ota Svátek a Daniel Pražák z Přírodní
+školy. Vystoupí také děkan fakulty prof. Nedělka, vedoucí katedry pedagogiky
+prof. Bendl a vedoucí katedry dějin a didaktiky dějepisu doc. Hnilica. Po akci
+grilování s Bistrem na dvorku! Pořádáme ve spolupráci s iniciativou Otevřeno a
+v rámci akce Kniha ti sluší. [Pozvánka](/img/storch-pozvánka-final.pdf).
 
-<a href="/img/štorch-pozvánka.png"><img src="/img/štorch-pozvánka.png" alt="Pozvánka na tematický večer s Eduardem Štorchem" style="height:400pt;" /></a>
