@@ -1,6 +1,6 @@
 ---
 title: Týden otevřeného přístupu
-hide: "2018-10-29"
+hide: "2018-10-28"
 ---
 Ve dnech 22. – 28. října 2018 se uskuteční 11. ročník *Týdne otevřeného
 přístupu*, [mezinárodní propagační akce](http://www.openaccessweek.org/) na
