@@ -1,6 +1,6 @@
 ---
 title: Přístup k databázi Oxford English Dictionary Online
-hide: "2019-12-31"
+hide: "2019-01-15"
 img: /img/oxford-aktual.jpg
 alt:  "Foto: Cassidy Kelley/Unsplash"
 ---
