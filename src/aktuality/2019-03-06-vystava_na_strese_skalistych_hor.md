@@ -1,6 +1,6 @@
 ---
 title: Výstava Na střeše Skalistých hor
-hide: "2199-12-31"
+hide: "2019-03-07"
 alt: skalisté hory
 img: /img/skaliste_hory.jpg
 ---
