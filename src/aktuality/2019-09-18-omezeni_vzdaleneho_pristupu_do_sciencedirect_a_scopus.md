@@ -1,6 +1,6 @@
 ---
 title: Omezení vzdáleného přístupu do ScienceDirect a Scopus
-hide: "2199-12-31"
+hide: "2019-09-17"
 alt: Omezení přístupu
 img: /img/contrustion_icon_author-freepik.png
 ---
