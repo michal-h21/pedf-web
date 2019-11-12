@@ -1,6 +1,6 @@
 ---
 title: "OAWebináře: poznejte open access online"
-hide: "2019-10-26"
+hide: "2019-10-15"
 alt: OA Week
 img: /img/OpenAccessWeek_logo.jpg
 ---
