@@ -1,6 +1,6 @@
 ---
 title: Otevírací doba o svátcích a v lednu
-hide: "2020-01-06"
+hide: "2020-01-02"
 alt: alt text
 img: "/img/pf_knihovna_pedf_uk.jpg"
 ---
