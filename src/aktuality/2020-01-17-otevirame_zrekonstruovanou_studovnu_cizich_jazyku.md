@@ -1,6 +1,5 @@
 ---
 title: Otevíráme zrekonstruovanou studovnu cizích jazyků
-hide: "2020-01-31"
 alt: "Studovna v Celetné"
 img: /img/celetna-atkualita.jpg
 ---
