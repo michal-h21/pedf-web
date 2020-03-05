@@ -1,6 +1,6 @@
 ---
 title: Do mediální databáze Anopress se nově dostanete odkudkoli
-hide: "2199-12-31"
+hide: "2020-02-20"
 alt: alt text
 img: /img/anopress.png
 ---
