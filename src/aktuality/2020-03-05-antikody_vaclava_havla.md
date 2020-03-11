@@ -1,6 +1,6 @@
 ---
 title: Antikódy Václava Havla
-hide: "2020-03-31"
+hide: "2020-03-10"
 alt: Antikódy
 img: /img/havel-aktualita.jpg
 ---
