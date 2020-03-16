@@ -1,6 +1,6 @@
 ---
 title: Přijďte na výstavu fotografií z Grónska
-hide: "2199-12-31"
+hide: "2020-03-02"
 alt: alt text
 img: /img/gronsko.png
 ---

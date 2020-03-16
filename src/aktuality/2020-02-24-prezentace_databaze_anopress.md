@@ -1,6 +1,6 @@
 ---
 title: Prezentace databáze Anopress
-hide: "2199-12-31"
+hide: "2020-03-13"
 alt: alt text
 img: /img/anopress.png
 ---
