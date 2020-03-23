@@ -1,5 +1,5 @@
 ---
-title: Nový rozcestník elektronických zdrojů
+title: Využijte naši online poradnu
 hide: "2199-12-31"
 alt: ezdroje
 img: /img/ezdroje.png
