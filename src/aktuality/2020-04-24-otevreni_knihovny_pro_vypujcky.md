@@ -3,8 +3,8 @@ title: Otevření knihovny pro výpůjčky
 hide: "2199-12-31"
 ---
 
-Z pověření děkana bude od 20.4. půjčovna otevřena pro studenty posledních
-ročníků v pondělí a ve středu od 9.00 do 15.00. Knihy je nutné objednávat
+Od 27. 4. bude půjčovna otevřena v omezeném režimu pro všechny studenty
+vždy v pondělí a ve středu od 9.00 do 15.00. Knihy je nutné objednávat
 předem online přes [Centrální katalog](https://ckis.cuni.cz). U vyhledané knihy stačí v
 jednotkách PedF M. Rettigové zvolit možnost "Požadavek". [Podrobnější návod na
 webu Ústřední knihovny UK](https://alephuk.cuni.cz/CKIS-10.html). 
