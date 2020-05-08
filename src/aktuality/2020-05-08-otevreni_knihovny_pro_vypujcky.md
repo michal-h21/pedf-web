@@ -4,7 +4,7 @@ hide: "2199-12-31"
 ---
 
 Od 11.5. bude půjčovna v budově PedF M. Rettigové otevřena od pondělí do pátku
-od 9.00 do 15.00, nově budeme půjčovat i jazykové studovně v Celetné a to vždy
+od 9.00 do 15.00, nově budeme půjčovat i vracet v jazykové studovně v Celetné a to vždy
 v pondělí a ve středu od 9.00 do 14.30.
 
 Knihy je nutné objednávat vždy
@@ -18,6 +18,6 @@ kniha v současné chvíli vypůjčena a bude Vám moci být vydána až ve chv�
 se daný examplář vrátí. Po splnění rezervace Vám zašleme potvrzovací e-mail s pokyny pro vyzvednutí.
 
 
-V budově PedF M. Rettigové se knihy se vrací **pouze** do
+V budově PedF M. Rettigové se knihy vrací **pouze** do
 [biblioboxu](https://knihovna.pedf.cuni.cz/bibliobox.html) umístěného vedle
-vrátnice.
+vrátnice. 
