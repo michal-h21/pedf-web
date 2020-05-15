@@ -7,7 +7,6 @@ Od 11.5. bude půjčovna v budově PedF M. Rettigové otevřena od pondělí do 
 od 9.00 do 15.00, nově budeme půjčovat i vracet v jazykové studovně v Celetné, a to vždy
 v pondělí a ve středu od 9.00 do 14.30.
 
-Ve čtvrtek 14. 5. bude knihovna z technických důvodů zavřena.
 
 Knihy je nutné objednávat vždy
 předem online přes [Centrální katalog](https://ckis.cuni.cz). U vyhledané knihy stačí v
