@@ -19,6 +19,7 @@ kniha v současné chvíli vypůjčena a bude Vám moci být vydána až ve chv�
 se daný examplář vrátí. Po splnění rezervace Vám zašleme potvrzovací e-mail s pokyny pro vyzvednutí.
 
 
-V budově PedF M. Rettigové se knihy vrací **pouze** do
+Knihy vracejte vždy v knihovně, ve které jste si je půjčili. 
+V budově PedF M. Rettigové se  vrací **pouze** z  do
 [biblioboxu](https://knihovna.pedf.cuni.cz/bibliobox.html) umístěného vedle
 vrátnice. 
