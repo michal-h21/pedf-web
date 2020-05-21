@@ -3,9 +3,10 @@ title: Otevření knihovny pro výpůjčky
 hide: "2199-12-31"
 ---
 
-Od 11.5. bude půjčovna v budově PedF M. Rettigové otevřena od pondělí do pátku
-od 9.00 do 15.00, nově budeme půjčovat i vracet v jazykové studovně v Celetné, a to vždy
-ve středu od 9.00 do 14.30.
+Půjčovna v budově *PedF M. Rettigové* je otevřena od *pondělí* do *pátku*
+od 9.00 do 15.00. 
+
+Z důvodu malého zájmu uživatelů o stávající služby studovny v *Celetné* upravujeme do odvolání otevírací dobu studovny pouze na *středy* 9.00-14.30. 
 
 
 Knihy je nutné objednávat vždy
