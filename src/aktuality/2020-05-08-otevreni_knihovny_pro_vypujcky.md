@@ -5,7 +5,7 @@ hide: "2199-12-31"
 
 Od 11.5. bude půjčovna v budově PedF M. Rettigové otevřena od pondělí do pátku
 od 9.00 do 15.00, nově budeme půjčovat i vracet v jazykové studovně v Celetné, a to vždy
-v pondělí a ve středu od 9.00 do 14.30.
+ve středu od 9.00 do 14.30.
 
 
 Knihy je nutné objednávat vždy
