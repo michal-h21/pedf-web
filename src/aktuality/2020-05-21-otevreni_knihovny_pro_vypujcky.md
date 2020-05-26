@@ -17,10 +17,10 @@ webu Ústřední knihovny UK](https://alephuk.cuni.cz/CKIS-10.html).
 Vždy si objednáváte konkrétní knihu. Proto je důležité, aby objednávaná kniha
 měla v poli *Vypůjčeno do* uvedeno „Na místě“. Pokud je zde uvedeno datum, je
 kniha v současné chvíli vypůjčena a bude Vám moci být vydána až ve chvíli, kdy
-se daný examplář vrátí. Po splnění rezervace Vám zašleme potvrzovací e-mail s pokyny pro vyzvednutí.
+se daný exemplář vrátí. Po splnění rezervace Vám zašleme potvrzovací e-mail s pokyny pro vyzvednutí.
 
 
 Knihy vracejte vždy v knihovně, ve které jste si je půjčili. 
-V budově PedF M. Rettigové se  vrací **pouze** z  do
+V budově PedF M. Rettigové se mohou vracet do 
 [biblioboxu](https://knihovna.pedf.cuni.cz/bibliobox.html) umístěného vedle
 vrátnice. 
