@@ -3,10 +3,11 @@ title: Otevření knihovny pro výpůjčky
 hide: "2199-12-31"
 ---
 
+Abychom předešli tvoření front, doporučujeme objednat knihy předem online.
+
 <details><summary>Jak si objednat knihy</summary>
 
-Doporučujeme knihy objednat
-předem online přes [Centrální katalog](https://ckis.cuni.cz). U vyhledané knihy stačí v
+ Otevřete [Centrální katalog](https://ckis.cuni.cz). U vyhledané knihy stačí v
 jednotkách *PedF M. Rettigové* nebo *PedF Celetná* zvolit možnost "Požadavek". [Podrobnější návod na
 webu Ústřední knihovny UK](https://alephuk.cuni.cz/CKIS-10.html). 
 
