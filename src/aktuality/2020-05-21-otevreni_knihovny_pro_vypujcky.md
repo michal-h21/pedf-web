@@ -1,5 +1,5 @@
 ---
-title: Otevření knihovny pro výpůjčky
+title: Využijte možnost objednávání knih předem
 hide: "2199-12-31"
 ---
 
