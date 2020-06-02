@@ -10,7 +10,7 @@ Z důvodu malého zájmu uživatelů o stávající služby studovny v *Celetné
 
 <details><summary>Jak si objednat knihy</summary>
 
-Knihy je nutné objednávat vždy
+Doporučujeme knihy objednat
 předem online přes [Centrální katalog](https://ckis.cuni.cz). U vyhledané knihy stačí v
 jednotkách *PedF M. Rettigové* nebo *PedF Celetná* zvolit možnost "Požadavek". [Podrobnější návod na
 webu Ústřední knihovny UK](https://alephuk.cuni.cz/CKIS-10.html). 
