@@ -9,5 +9,5 @@ Co všechno potřebujete, aby pro Vás bylo co nejsnadnější publikovat člán
 
 Ze získaných dat vznikne interní analýza aktuální situace v oblasti open access na UK.
 
-Bližší informace o otevřeném přístupu naleznete na na zbrusu novém webu [Centra pro podporu open science](https://openscience.cuni.cz/OSCI-1.html).
+Bližší informace o otevřeném přístupu naleznete na zbrusu novém webu [Centra pro podporu open science](https://openscience.cuni.cz/OSCI-1.html).
 
