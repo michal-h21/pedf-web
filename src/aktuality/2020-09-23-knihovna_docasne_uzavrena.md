@@ -1,6 +1,6 @@
 ---
 title: Knihovna dočasně uzavřena
-hide: "2020-09-31"
+hide: "2020-09-23"
 ---
 
 Chceme zůstat bezpečným místem pro všechny. Proto preventivně do obdržení

@@ -5,7 +5,7 @@ alt: "SARS-Cov-2. CDC/ Alissa Eckert, MS; Dan Higgins, MAM – https://phil.cdc.
 img: /img/sars-covid.png
 ---
 
-Otevírací doba knihovny zůstává zatím nezměněna, končící výpůjčky prodloužíme
+Otevírací doba knihovny opět tak, jak jste zvyklí. Končící výpůjčky prodloužíme
 do konce října (včetně MVS výpůjček pro knihovny). V provozu bude i nadále studovna v Magdalény Rettigové 4. Knihy
 však vydáváme pouze po jejich předchozím [objednání](online_objednani.html), výdej na počkání jsme
 zastavili. Knihy můžete vrátit jen přes bibliobox. Studovna v Celetné bude
