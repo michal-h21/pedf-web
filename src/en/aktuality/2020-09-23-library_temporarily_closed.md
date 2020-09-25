@@ -1,6 +1,6 @@
 ---
 title: Library temporarily closed
-hide: "2020-09-30"
+hide: "2020-09-24"
 ---
 
 We want to remain a safe place for everyone. Therefore, as a precaution, the
