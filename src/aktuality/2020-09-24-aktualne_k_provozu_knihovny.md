@@ -1,6 +1,6 @@
 ---
 title: Aktuálně k provozu knihovny
-hide: "2199-12-31"
+hide: "2020-10-11"
 alt: "SARS-Cov-2. CDC/ Alissa Eckert, MS; Dan Higgins, MAM – https://phil.cdc.gov/Details.aspx?pid=23312 "
 img: /img/sars-covid.png
 ---
