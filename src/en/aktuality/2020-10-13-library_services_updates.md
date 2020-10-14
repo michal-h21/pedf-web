@@ -11,6 +11,7 @@ your external loans is extended until the end of October (as well as your loans
 from our libraries outside Prague). The lending services are available only
 through prior reservation, borrowing books on request in the library is not
 possible at the moment. You can hand back your borrowed books and documents
-through Bibliobox only. Feel free to write or call us should you have any
-questions. You can also go to our Facebook page ([@knihovnapedfpraha](https://www.facebook.com/knihovnapedfpraha)), where you
+through Bibliobox only. Feel free to write or call us shoud you have any
+questions. You can also go to our facebook page ([@knihovnapedfpraha](https://www.facebook.com/knihovnapedfpraha)), where you
 can send us a message. We are ready to help you from afar!
+
