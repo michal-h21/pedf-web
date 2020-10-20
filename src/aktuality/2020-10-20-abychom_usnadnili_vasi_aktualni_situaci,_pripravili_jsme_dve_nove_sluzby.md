@@ -1,5 +1,5 @@
 ---
-title: Abychom usnadnili vaši aktuální situaci, připravili jsme dvě nové služby
+title: "Abychom usnadnili vaši aktuální situaci, připravili jsme dvě nové služby."
 hide: "2199-12-31"
 alt: "Fraus leták"
 img: /img/fraus-aktualita.jpg
