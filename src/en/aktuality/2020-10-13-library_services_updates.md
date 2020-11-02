@@ -1,15 +1,16 @@
 ---
-title: Library services updates
+title: Library Closed
 hide: "2199-12-31"
 alt: "SARS-Cov-2. CDC/ Alissa Eckert, MS; Dan Higgins, MAM – https://phil.cdc.gov/Details.aspx?pid=23312 "
 img: /img/sars-covid.png
 ---
 
-The library is closed until further anouncement due to the current COVID 19 related restrictions.
-Every soon to be expired loan period of your external loans is extended until the end of November (as well as your loans
-from our libraries outside Prague). The lending services are not 
-possible at the moment. You can hand back your borrowed books and documents
-through Bibliobox only. Feel free to write or call us shoud you have any
-questions. You can also go to our facebook page ([@knihovnapedfpraha](https://www.facebook.com/knihovnapedfpraha)), where you
-can send us a message. We are ready to help you from afar!
-
+Our library had to be closed due to preventive measures following the
+restrictions given by the Government of the Czech Republic until further
+notice. We prolonged loans until November 18, 2020. All [e-resources](catalogues.html) are
+available 24 hours a day. Books can be returned in the Bibliobox next to the
+reception desk. You can also mail them back to us. Feel free to use our online
+advisory via FB
+[@knihovnapedfpraha](https://www.facebook.com/knihovnapedfpraha)! We can help
+you with access to a wide array
+of electronic content, bibliographic references management, and lookup of literature.
