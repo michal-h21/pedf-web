@@ -15,6 +15,17 @@ jobs:
 
     - uses: leafo/gh-actions-luarocks@v4.0.0
 
+    - name: Cache node modules
+      uses: actions/cache@v2
+      with:
+        # npm cache files are stored in `~/.npm` on Linux/macOS
+        path: .luarocks
+        key: ${{ runner.os }}-build-${{ env.cache-name }}-
+        restore-keys: |
+          ${{ runner.os }}-build-${{ env.cache-name }}-
+          ${{ runner.os }}-build-
+          ${{ runner.os }}-
+
     - name: Install Lua dependencies
       run: |
         luarocks install h5tk 
