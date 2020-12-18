@@ -42,9 +42,9 @@ jobs:
         echo $WWW_DIR
         lua web.lua
       env:
-        HTML_DIR: $GITHUB_WORKSPACE/src
-        DATA_DIR: $GITHUB_WORKSPACE/code/data
-        WWW_DIR: $GITHUB_WORKSPACE/www
+        HTML_DIR: ${{ env.GITHUB_WORKSPACE }}/src
+        DATA_DIR: ${{ env.GITHUB_WORKSPACE }}/code/data
+        WWW_DIR: ${{ env.GITHUB_WORKSPACE }}/www
 
     - name: Test if it works
       run: cat www/index.html
