@@ -71,5 +71,17 @@ jobs:
     - name: Test if it works
       run: cat www/js/calendar.js
 
+    - name: Deploy
+      run: |
+        apt install lftp
+        lftp -c "open -u $FTP_USER,$FTP_PASSWORD $FTP_HOST -e 'set ssl:verify-certificate false'; mirror -c -p -R -L www www; exit;"
+      env:
+        $FTP_HOST: ${{ secrets.FTP_HOST }}
+        $FTP_USER: ${{ secrets.FTP_USER }}
+        $FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+
+
+
+
 
 
