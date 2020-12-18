@@ -57,7 +57,7 @@ jobs:
         lua web.lua
 
     - name: Test if it works
-      run: cat www/index.html
+      run: cat www/js/calendar.js
 
 
 
