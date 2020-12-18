@@ -30,4 +30,24 @@ jobs:
       working-directory: lettersmith
       run: luarocks make
 
+    - name: Download blog code
+      uses: actions/checkout@v2
+      with:
+        repository:  michal-h21/pedf-web-navrh
+        path: code
+
+    - name: Build web
+      working-directory: code
+      run: | 
+        echo $WWW_DIR
+        lua web.lua
+      with:
+        HTML_DIR: $GITHUB_WORKSPACE/src
+        DATA_DIR: $GITHUB_WORKSPACE/code/data
+        WWW_DIR: $GITHUB_WORKSPACE/www
+
+    - name: Test if it works
+      run: cat www/index.html
+
+
 
