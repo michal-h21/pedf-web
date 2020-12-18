@@ -71,7 +71,8 @@ jobs:
     - name: Test if it works
       run: cat www/js/calendar.js
 
-    uses: kevinpainchaud/simple-ftp-deploy-action@v1.2.1
+    - name: Deploy
+      uses: kevinpainchaud/simple-ftp-deploy-action@v1.2.1
       with:
         ftp_host: ${{ secrets.FTP_HOST }}
         ftp_username: ${{ secrets.FTP_USER }}
