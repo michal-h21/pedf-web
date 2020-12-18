@@ -17,7 +17,8 @@ jobs:
 
     - name: Install Lua dependencies
       run: |
-        luarocks install l5tk date
+        luarocks install h5tk 
+        luarocks install date 
 
     - name: Download lettersmith
       uses: actions/checkout@v2
