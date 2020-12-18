@@ -73,7 +73,7 @@ jobs:
 
     - name: Deploy
       run: |
-        apt install lftp
+        sudo apt-get install lftp
         lftp -c "open -u $FTP_USER,$FTP_PASSWORD $FTP_HOST -e 'set ssl:verify-certificate false'; mirror -c -p -R -L www www; exit;"
       env:
         $FTP_HOST: ${{ secrets.FTP_HOST }}
