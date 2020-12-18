@@ -1,0 +1,32 @@
+name: Build web
+
+on: [push]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@master
+
+    - uses: leafo/gh-actions-lua@v8.0.0
+      with:
+        luaVersion: "5.3"
+
+    - uses: leafo/gh-actions-luarocks@v4.0.0
+
+    - name: Install Lua dependencies
+      run: |
+        luarocks install l5tk date
+
+    - name: Download lettersmith
+      uses: actions/checkout@v2
+      with:
+        repository:  michal-h21/lettersmith 
+        path: lettersmith
+
+    - name: Install lettersmith
+      working-directory: lettersmith
+      run: luarocks make
+
+
