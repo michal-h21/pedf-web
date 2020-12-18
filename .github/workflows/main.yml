@@ -72,6 +72,7 @@ jobs:
       run: cat www/js/calendar.js
 
     - name: Deploy
+      shell: bash
       run: |
         sudo apt-get install lftp
         mkdir ~/.lftp
