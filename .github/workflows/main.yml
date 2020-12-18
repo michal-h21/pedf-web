@@ -79,6 +79,8 @@ jobs:
         ftp_password: ${{ secrets.FTP_PASSWORD }}
         local_source_dir: "www"
         dist_target_dir: "www"
+        only_newer: "true"
+        ignore_time: "true"
 
     # - name: Deploy
     #   shell: bash
