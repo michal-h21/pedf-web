@@ -76,7 +76,7 @@ jobs:
         sudo apt-get install lftp
         mkdir ~/.lftp
         echo set ssl:verify-certificate false > ~/.lftp/rc
-        echo $FTP_HOST
+        echo host: $FTP_HOST
         lftp -c "open -u $FTP_USER,$FTP_PASSWORD $FTP_HOST; mirror -c -p -R -L www www; exit;"
       env:
         $FTP_HOST: ${{ secrets.FTP_HOST }}
