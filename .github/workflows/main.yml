@@ -9,13 +9,25 @@ jobs:
     steps:
     - uses: actions/checkout@master
 
+    - name: Cache lua installation
+      uses: actions/cache@v2
+      with:
+        # npm cache files are stored in `~/.npm` on Linux/macOS
+        path: .lua
+        key: ${{ runner.os }}-build-${{ env.cache-name }}-
+        restore-keys: |
+          ${{ runner.os }}-build-${{ env.cache-name }}-
+          ${{ runner.os }}-build-
+          ${{ runner.os }}-
+
+
     - uses: leafo/gh-actions-lua@v8.0.0
       with:
         luaVersion: "5.3"
 
     - uses: leafo/gh-actions-luarocks@v4.0.0
 
-    - name: Cache node modules
+    - name: Cache luarocks modules
       uses: actions/cache@v2
       with:
         # npm cache files are stored in `~/.npm` on Linux/macOS
