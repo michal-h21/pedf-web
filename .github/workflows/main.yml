@@ -36,9 +36,6 @@ jobs:
         repository:  michal-h21/pedf-web-navrh
         path: code
 
-    - name: Set workspace env
-      run: echo ::set-env name=workspace::$GITHUB_WORKSPACE
-
     - name: Build web
       working-directory: code
       run: | 
