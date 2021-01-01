@@ -63,7 +63,7 @@ jobs:
       working-directory: code
       run: | 
         export HTML_DIR=$GITHUB_WORKSPACE/src
-        export DATA_DIR=$GITHUB_WORKSPACE/data
+        export DATA_DIR=$GITHUB_WORKSPACE/code/data
         export WWW_DIR=$GITHUB_WORKSPACE/www
         echo $WWW_DIR
         lua web.lua
