@@ -59,6 +59,10 @@ jobs:
         repository:  michal-h21/pedf-web-navrh
         path: code
 
+    - name: Debug git log
+      run:
+        git -C $GITHUB_WORKSPACE/src log -1 --format='%ai' HEAD sluzby.htm
+
     - name: Build web
       working-directory: code
       run: | 
