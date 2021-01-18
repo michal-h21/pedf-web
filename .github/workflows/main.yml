@@ -22,7 +22,7 @@ jobs:
 
     - name: Debug git log
       run:
-        git -C $GITHUB_WORKSPACE/src log -1 --format='%ai' HEAD sluzby.htm
+        git -C src log -1 --format='%ai' HEAD sluzby.htm
 
     - uses: leafo/gh-actions-lua@v8.0.0
       with:
