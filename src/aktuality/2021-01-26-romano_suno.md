@@ -1,6 +1,6 @@
 ---
 title: Romano suno
-hide: "2199-12-31"
+hide: "2021-01-31"
 alt: Detail jednoho z obrázků
 img: /img/romano.png
 ---
