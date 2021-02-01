@@ -5,7 +5,8 @@ hide: "2199-12-31"
 
 Svaz českých knihkupců a nakladatelů se rozhodl  dále neprodloužit souhlas s
 plným zpřístupněním digitálních knihoven Kramerius, zejména [Národní digitální
-knihovny](https://www.ndk.cz/). Nadále zůstanou přístupné publikace, které byly vydány před rokem
+knihovny](https://www.ndk.cz/). Plný přístup bude ukončen <strong>
+12. 2. 2021</strong>.  Nadále zůstanou přístupné publikace, které byly vydány před rokem
 2000 a spadají do režimu děl nedostupných na trhu. Prodloužení přístupu
 podpořila otevřeným dopisem i Česká konference rektorů. K rozhodnutí SČKN
 přispělo dosud neřešený stav dopadů mimořádných opatření na nakladatele a
