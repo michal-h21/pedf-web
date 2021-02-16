@@ -5,7 +5,8 @@ alt: "COVID"
 img: /img/sars-covid.png
 ---
 
-Vzhledem k současné epidemiologické situaci je knihovna zcela uzavřena.
+Od středy 17. 2. bude opět otevřeno výpůjční okénko, ve kterém Vám budeme
+půjčovat knihy, které jste si předem [objednali](online_objednani.html).
 Na vyžádání vydáváme knihy do [rezervačních boxů](rezervacni_boxy.html).
 [Elektronické zdroje](eiz.htm) jsou 24 hodin denně k dispozici. Pro vracení
 knih využijte [bibliobox](bibliobox.html) vedle vrátnice, případně můžete poslat knihy poštou.
