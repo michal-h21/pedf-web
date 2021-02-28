@@ -5,7 +5,7 @@ alt: "COVID"
 img: /img/sars-covid.png
 ---
 
-Od středy 17. 2. bude opět otevřeno výpůjční okénko, ve kterém Vám budeme
+Od středy 17. 2. je opět otevřeno výpůjční okénko, ve kterém Vám budeme
 půjčovat knihy, které jste si předem [objednali](online_objednani.html).
 Na vyžádání vydáváme knihy do [rezervačních boxů](rezervacni_boxy.html).
 Všechny stávající výpůjčky byly prodlouženy do 1. 4. 2021.
