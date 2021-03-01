@@ -11,6 +11,10 @@ Na vyžádání vydáváme knihy do [rezervačních boxů](rezervacni_boxy.html)
 Všechny stávající výpůjčky byly prodlouženy do 1. 4. 2021.
 [Elektronické zdroje](eiz.htm) jsou 24 hodin denně k dispozici. Pro vracení
 knih využijte [bibliobox](bibliobox.html) vedle vrátnice, případně můžete poslat knihy poštou.
-Případné zpozdné můžete [uhradit převodem na účet](zpozdne.html). Neváhejte využívat naši
+Případné zpozdné můžete [uhradit převodem na účet](zpozdne.html). 
+Z důvodu omezeného provozu fakulty se k nám výpisy plateb dostávají s
+několikadenním zpožděním. Pokud potřebujete zpozdné z Vašeho konta odepsat
+rychleji, můžete nám e-mailem poslat potvrzení o provedené platbě.
+Neváhejte využívat naši
 online poradnu přes FB [@knihovnapedfpraha](https://www.facebook.com/knihovnapedfpraha)! Radíme s přístupem k e-zdrojům, s
 [citacemi](inform_vzdelavani.htm) a řešíme s vámi dostupnost literatury.
