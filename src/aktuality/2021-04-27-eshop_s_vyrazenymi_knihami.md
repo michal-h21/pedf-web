@@ -1,5 +1,5 @@
 ---
-title: Eshop s vyřazenými knihami
+title: Vyzkoušejte naši novinku
 hide: "2199-12-31"
 img: "/img/tom-hermans-9BoqXzEeQqM-unsplash.jpg"
 alt: "Photo by Tom Hermans on Unsplash"
