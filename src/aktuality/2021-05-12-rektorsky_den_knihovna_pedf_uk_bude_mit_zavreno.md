@@ -1,6 +1,6 @@
 ---
 title: "Rektorský den: Knihovna PedF UK bude mít zavřeno"
-hide: "2021-05-13"
+hide: "2021-05-12"
 alt: "Photo by Lina Trochez on Unsplash"
 img: /img/lina-trochez-ktPKyUs3Qjs-unsplash.jpg
 ---
