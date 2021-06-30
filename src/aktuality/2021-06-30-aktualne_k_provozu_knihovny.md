@@ -5,11 +5,13 @@ alt: "COVID"
 img: /img/sars-covid.png
 ---
 
-Od středy 26. 5. je opět otevřena [studovna](studovna.html). Kapacita je kvůli nařízení vlády omezena pouze na 12 osob současně.
+Knihovna bude během července otevřena ve stejném režimu jako dosud, v pondělí a ve středu od 9.00 do 15.00.
+[Studovna](studovna.html) je otevřena, kapacita je ale kvůli nařízení vlády omezena pouze na 12 osob současně.
 Stále funguje výpůjční okénko, ve kterém Vám budeme
 půjčovat knihy, které jste si předem [objednali](online_objednani.html).
 Na vyžádání vydáváme knihy do [rezervačních boxů](rezervacni_boxy.html).
-[Elektronické zdroje](eiz.htm) jsou 24 hodin denně k dispozici. Pro vracení
+[Elektronické zdroje](eiz.htm) jsou 24 hodin denně k dispozici. 
+Pro vracení
 knih využijte [bibliobox](bibliobox.html) vedle vrátnice, případně můžete poslat knihy poštou.
 Případné zpozdné můžete [uhradit převodem na účet](zpozdne.html). 
 Z důvodu omezeného provozu fakulty se k nám výpisy plateb dostávají s
