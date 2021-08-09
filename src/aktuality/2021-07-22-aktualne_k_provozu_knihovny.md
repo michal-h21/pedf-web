@@ -15,7 +15,8 @@ Od 1. 8. do 11. 8. půjčujeme knihy, které si předem
 <a href="mailto:knihovna@pedf.cuni.cz">knihovna@pedf.cuni.cz</a>
 do [výdejních boxů](https://knihovna.pedf.cuni.cz/rezervacni_boxy.html). 
 Pro vracení knih využijte [bibliobox](bibliobox.html) 
-vedle vrátnice, případně můžete poslat knihy poštou. Půjčovna i studovna bude uzavřena.
+vedle vrátnice, případně můžete poslat knihy poštou. Půjčovna i 
+studovna bude uzavřena.
 
 Od 12. 8. do 31. 8. není možné knihy půjčovat ani vracet (ani do biblioboxu).
 
