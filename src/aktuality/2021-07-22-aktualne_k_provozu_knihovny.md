@@ -11,7 +11,8 @@ používali od roku 2005. Aby měl přesun co nejmenší dopad na služby knihov
 odehraje se v srpnu 2021:
 
 Od 1. 8. do 11. 8. půjčujeme knihy, které si předem 
-[objednáte](online_objednani.html) 
+[objednáte](online_objednani.html)  e-mailem na 
+<a href="mailto:knihovna@pedf.cuni.cz">knihovna@pedf.cuni.cz</a>
 do [výdejních boxů](https://knihovna.pedf.cuni.cz/rezervacni_boxy.html). 
 Pro vracení knih využijte [bibliobox](bibliobox.html) 
 vedle vrátnice, případně můžete poslat knihy poštou. Půjčovna i studovna bude uzavřena.
