@@ -18,7 +18,7 @@ Pro vracení knih využijte [bibliobox](bibliobox.html)
 vedle vrátnice, případně můžete poslat knihy poštou. Půjčovna i 
 studovna bude uzavřena.
 
-Od 12. 8. do 31. 8. není možné knihy půjčovat ani vracet (ani do biblioboxu).
+Od 12. 8. do 3. 9. není možné knihy půjčovat ani vracet (ani do biblioboxu).
 
 Neváhejte využívat naši
 online poradnu přes FB [@knihovnapedfpraha](https://www.facebook.com/knihovnapedfpraha),
