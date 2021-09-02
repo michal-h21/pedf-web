@@ -1,6 +1,6 @@
 ---
 title: Aktuálně k provozu knihovny
-hide: "2199-12-31"
+hide: "2021-09-01"
 alt: "Unsplash/Nick Fewings"
 img: /img/kufr.jpg
 ---
