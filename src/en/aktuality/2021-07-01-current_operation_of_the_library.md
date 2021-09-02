@@ -1,6 +1,6 @@
 ---
 title: Current operation of the library
-hide: "2199-12-31"
+hide: "2021-09-01"
 alt: COVID
 img: /img/sars-covid.png
 ---
