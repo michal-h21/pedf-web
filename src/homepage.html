@@ -6,9 +6,41 @@ styles: ["css/homepage.css"]
 <!-- <h1>Rozcestník zdrojů knihovny</h1> -->
 <div class="row">
   <div class="item">
+    <h1>Vyhledávání ve fondu Knihovny PedF UK</h1>
+ <form action="https://cuni.primo.exlibrisgroup.com/discovery/search" enctype="application/x-www-form-urlencoded; charset=utf-8" id="ebscohostCustomSearchBox" method="get" onsubmit="searchPrimo()" target="_blank">
+                                <input name="vid" type="hidden" value="420CKIS_INST:UKAZ">
+                                <input name="tab" type="hidden" value="Everything">
+                                <input name="search_scope" type="hidden" value="MyInst_and_CI">
+                                <input name="lang" type="hidden" value="cs">
+                                <input name="mode" type="hidden" value="basic">
+                                <input id="primoQuery" name="query" type="hidden">
+                                <input name="pcAvailabiltyMode" type="hidden" value="true">
+                                <input name="mfacet" type="hidden" value="library,include,6986–112118530006986,1">
+                                <input id="primoQueryTemp" type="text" value="">
+                                <input alt="hledat" id="go" onclick="searchPrimo()" title="hledat" type="button" value="hledat">
+                                <div class="bottom">
+                                    <a href='https://knihovna.cuni.cz/rozcestnik/ukaz/'>Více informací</a> o vyhledávací službě Ukaž.
+                                </div>
+                            </form>
+  </div>
+</div>
+<script type="text/javascript">
+  function searchPrimoBase(id,temp) {
+    document.getElementById(id).value = "any,contains," + document.getElementById(temp).value.replace(/[,]/g, " ");
+    document.forms["searchForm"].submit();
+  }
+  function searchPrimo() {
+    searchPrimoBase("primoQuery","primoQueryTemp");
+  }
+  function searchClanky(){
+    searchPrimoBase("primoClanky","primoClankyTemp");
+  }
+</script>
+<div class="row">
+  <div class="item">
     <h1 id="knihovna">Knihovna</h1>
     <ul>
-      <li><a href= "https://ckis.cuni.cz/F/?func=find-a&amp;find_code=WRD&amp;request=&amp;filter_request_4=&amp;filter_request_5=PEDFR"> Centrální katalog</a></li>
+      <li><a href="https://ukaz.cuni.cz/">Vyhledávač UKAŽ</a></li>
       <li><a href= "https://knihovna.pedf.cuni.cz">Web knihovny PedF UK</a></li>
       <li>Informace o <a href="/vypujcni_protokol.html">půjčování dokumentů</a> / <a href="/studovna.html">studovně</a>
       <li>Odebíraná periodika <a href= "cas_cz.htm">česká</a>/ <a href= "cas_not_cz.htm">zahraniční</a></li>
@@ -41,13 +73,13 @@ styles: ["css/homepage.css"]
       <li><a href="bookport.html">Více informací</a></li>
     </ul>
   </div>
-  <div class="item">
-    <h2 id="e-knihy-na-uk">E-knihy na UK</h2>
-    <ul>
-      <li><a href="http://ezdroje.cuni.cz/eknihy/?lang=cs">Rozcestník e-knih</a><br /></li>
-      <li><a href= "https://sfx.is.cuni.cz/sfxlcl3/azbook/ukall?lang=cze">Portál e-knih</a></li>
-    </ul>
-  </div>
+  <!-- <div class="item"> -->
+  <!--   <h2 id="e-knihy-na-uk">E-knihy na UK</h2> -->
+  <!--   <ul> -->
+  <!--     <li><a href="http://ezdroje.cuni.cz/eknihy/?lang=cs">Rozcestník e-knih</a><br /></li> -->
+  <!--     <li><a href= "https://sfx.is.cuni.cz/sfxlcl3/azbook/ukall?lang=cze">Portál e-knih</a></li> -->
+  <!--   </ul> -->
+  <!-- </div> -->
   <div class="item">
     <h2 id="e-casopisy">Pedagogické časopisy (plné texty)</h2>
     <ul>
