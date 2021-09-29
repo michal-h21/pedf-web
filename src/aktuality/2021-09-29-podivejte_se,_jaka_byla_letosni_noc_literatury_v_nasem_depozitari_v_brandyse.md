@@ -2,7 +2,7 @@
 title: Podívejte se, jaká byla letošní Noc literatury v našem depozitáři v Brandýse
 hide: "2199-12-31"
 alt: "Noc literatury"
-img: /img/noc_literatury.jpg
+img: "/img/noc-literatury-brandys.jpg"
 ---
 
 Z knihy Nemá, a dobře, že nemá od Ediny Szvoren četla herečka Lucie Pernetová.
