@@ -1,6 +1,6 @@
 ---
 title: Podívejte se, jaká byla letošní Noc literatury v našem depozitáři v Brandýse
-hide: "2199-12-31"
+hide: "2021-10-06"
 alt: "Noc literatury"
 img: "/img/noc-literatury-brandys.jpg"
 ---
