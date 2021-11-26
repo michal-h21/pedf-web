@@ -5,4 +5,4 @@ alt: "Photo by Tom Hermans on Unsplash"
 img: "/img/tom-hermans-9BoqXzEeQqM-unsplash.jpg"
 ---
 
-Objednávejte další vyřazené knihy za 5 Kč z našeho [e-shopu](https://knihovna.pedf.cuni.cz/wp/). Přidali jsme tam více než sedm stovek titulů.
+Objednávejte další vyřazené knihy za 5 Kč z našeho [e-shopu](https://knihovna.pedf.cuni.cz/wp/). Přidali jsme více než čtyři sta titulů.
