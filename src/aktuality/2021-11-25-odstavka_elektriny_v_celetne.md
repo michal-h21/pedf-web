@@ -1,6 +1,6 @@
 ---
 title: Odstávka elektřiny v Celetné
-hide: "2021-12-02"
+hide: "2021-12-01"
 ---
 
 Ve středu 1. 12. bude v budově fakulty v Celetné ulici probíhat odstávka
