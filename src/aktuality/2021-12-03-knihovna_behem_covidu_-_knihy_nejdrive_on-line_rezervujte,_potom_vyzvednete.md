@@ -1,6 +1,8 @@
 ---
-title: Knihovna během covidu - knihy nejdříve on-line rezervujte, potom vyzvedněte
+title: Bezpečná knihovna během covidu - knihy nejdříve on-line rezervujte, potom vyzvedněte
 hide: "2199-12-31"
+img: /img/megafon.jpg
+alt: megafon
 ---
 
 Abychom předešli frontám v půjčovně, otevřeli jsme u všech knih možnost
