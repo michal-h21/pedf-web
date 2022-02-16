@@ -1,5 +1,5 @@
 ---
-title: "Bezpečná knihovna během covidu: online rezervace knih a vracení do biblioboxu"
+title: "Bezpečná knihovna během covidu: online rezervace knih"
 hide: "2199-12-31"
 img: /img/megafon.jpg
 alt: megafon
