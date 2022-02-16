@@ -1,6 +1,6 @@
 ---
 title: Aktualizace nabídky vyřazené literatury
-hide: "2199-12-31"
+hide: "2022-01-20"
 alt: "Photo by Tom Hermans on Unsplash"
 img: "/img/tom-hermans-9BoqXzEeQqM-unsplash.jpg"
 ---
