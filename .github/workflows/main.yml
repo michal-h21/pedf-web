@@ -26,11 +26,11 @@ jobs:
       run:
         git -C src log -1 --format='%ai' HEAD sluzby.htm
 
-    - uses: leafo/gh-actions-lua@v8.0.0
+    - uses: leafo/gh-actions-lua@v9
       with:
         luaVersion: "5.3"
 
-    - uses: leafo/gh-actions-luarocks@v4.0.0
+    - uses: leafo/gh-actions-luarocks@v4
 
     - name: Cache luarocks modules
       uses: actions/cache@v2
