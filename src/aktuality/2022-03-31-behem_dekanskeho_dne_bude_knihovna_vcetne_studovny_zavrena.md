@@ -1,6 +1,6 @@
 ---
 title: Během Děkanského dne bude knihovna včetně studovny zavřená
-hide: "2022-04-01"
+hide: "2022-03-01"
 ---
 
 Poslední objednané knihy připravíme ve středu 30. března v 17 hodin. Pokud
