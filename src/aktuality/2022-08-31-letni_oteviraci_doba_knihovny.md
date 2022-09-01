@@ -1,5 +1,6 @@
 ---
 title: Otevírací doba knihovny v září
+hide: "2022-09-30" 
 alt: "Unsplash - Nick Fewings"
 img: /img/kufr.jpg
 ---
