@@ -1,6 +1,8 @@
 ---
 title: Web of Science - seminář
 hide: "2022-11-22"
+img: /img/clarivate.jpg
+alt: Clarivate logo
 ---
 
 Zveme vás na seminář **Podpora výzkumníků během celého cyklu výzkumu a novinky
