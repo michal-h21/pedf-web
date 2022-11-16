@@ -1,7 +1,7 @@
 ---
-title: Děkanský den: knihovna bude mít zavřeno
+title: "Děkanský den: knihovna bude mít zavřeno"
 hide: "2022-11-18"
-alt: hláška
+alt: "hláška"
 img: /img/megafon.jpg
 ---
 
