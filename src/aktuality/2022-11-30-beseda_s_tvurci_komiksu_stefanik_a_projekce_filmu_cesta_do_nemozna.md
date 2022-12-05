@@ -11,4 +11,4 @@ Gabriela Kyselová a Michal Baláž, jakož i výtvarník Václav Šlajch, kter�
 plzeňské Fakultě umění a designu Ladislava Sutnara. Zmínění autoři komiksového
 libreta téma Milana Rastislava Štefánika již dříve zpracovali i v celovečerním
 filmu „Cesta do nemožna“. Právě projekce tohoto snímku na besedu přímo naváže.
-Večerem bude provázet Tomáš Chlud. Besedy se můžete účastnit i online.
+Večerem bude provázet Tomáš Chlud. Besedy se můžete účastnit i [online](http://stream.pedf.cuni.cz/).
