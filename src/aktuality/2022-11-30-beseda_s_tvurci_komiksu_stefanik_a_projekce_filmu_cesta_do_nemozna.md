@@ -1,6 +1,6 @@
 ---
 title: Beseda s tvůrci komiksu Štefánik a projekce filmu Cesta do nemožna
-hide: "2199-12-31"
+hide: "2022-12-08"
 alt: vystava
 img: /img/Vystava_Komiksovy_roman_Stefanik-plazma_1_.png
 ---
