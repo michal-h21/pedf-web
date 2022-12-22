@@ -1,5 +1,5 @@
 ---
-title: "Christmas!"
+title: "Merry Christmas!"
 hide: "2023-01-02"
 alt: "Chad Madden (Unsplash)"
 img: /img/chad-madden-SUTfFCAHV_A-unsplash.jpg
