@@ -7,16 +7,16 @@ styles: ["css/homepage.css"]
 <div class="row">
   <div class="item">
     <h1>Vyhledávání ve fondu Knihovny PedF UK</h1>
- <form action="https://cuni.primo.exlibrisgroup.com/discovery/search" enctype="application/x-www-form-urlencoded; charset=utf-8" id="ebscohostCustomSearchBox" method="get" onsubmit="searchPrimo()" target="_blank">
+ <form action="https://cuni.primo.exlibrisgroup.com/discovery/search" enctype="application/x-www-form-urlencoded; charset=utf-8" id="ebscohostCustomSearchBox" method="get" onsubmit="searchPrimohomepage()" target="_blank">
                                 <input name="vid" type="hidden" value="420CKIS_INST:UKAZ">
                                 <input name="tab" type="hidden" value="Everything">
                                 <input name="search_scope" type="hidden" value="MyInst_and_CI">
                                 <input name="lang" type="hidden" value="cs">
                                 <input name="mode" type="hidden" value="basic">
-                                <input id="primoQuery" name="query" type="hidden">
+                                <input id="primoQueryhomepage" name="query" type="hidden">
                                 <input name="pcAvailabiltyMode" type="hidden" value="true">
                                 <input name="mfacet" type="hidden" value="library,include,6986–112118530006986,1">
-                                <input id="primoQueryTemp" type="text" value="">
+                                <input id="primoQueryTemphomepage" type="text" value="">
                                 <input alt="hledat" id="go" title="hledat" type="submit" value="hledat">
                                 <div class="bottom">
                                     <a href='https://knihovna.cuni.cz/rozcestnik/ukaz/'>Více informací</a> o vyhledávací službě Ukaž.
@@ -29,8 +29,8 @@ styles: ["css/homepage.css"]
     document.getElementById(id).value = "any,contains," + document.getElementById(temp).value.replace(/[,]/g, " ");
     document.forms["searchForm"].submit();
   }
-  function searchPrimo() {
-    searchPrimoBase("primoQuery","primoQueryTemp");
+  function searchPrimohomepage() {
+    searchPrimoBase("primoQueryhomepage","primoQueryTemphomepage");
   }
   function searchClanky(){
     searchPrimoBase("primoClanky","primoClankyTemp");
@@ -43,7 +43,6 @@ styles: ["css/homepage.css"]
       <li><a href="https://ukaz.cuni.cz/">Vyhledávač UKAŽ</a></li>
       <li>Informace o <a href="/vypujcni_protokol.html">půjčování dokumentů</a> / <a href="/studovna.html">studovně</a>
       <li>Odebírané časopisy <a href= "cas_cz.htm">české</a>/ <a href= "cas_not_cz.htm">zahraniční</a></li>
-      <li>Dostupné  <a href="elektronicke_knihy.htm">e-booky</a></li>
       <li>Doporučte nám knihy k <a href="http://knihovna.pedf.cuni.cz/objednavani_liter.htm">nákupu</a></li>
     </ul>
   </div>
@@ -58,8 +57,7 @@ styles: ["css/homepage.css"]
     <h1 id="elektronické-informační-zdroje">Elektronické informační zdroje</h1>
     <ul>
       <li><a href="https://ukaz.cuni.cz/">Vyhledávač informačních zdrojů Ukaž</a></li>
-      <li>E-zdroje UK: 
-        <a href= "https://ezdroje.cuni.cz/prehled/obory2.php?lang=cs">podle oborů</a> 
+      <li><a href= "https://ezdroje.cuni.cz/">E-zdroje UK</a> 
       </li>
     </ul>
   </div>
