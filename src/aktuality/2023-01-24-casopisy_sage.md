@@ -8,5 +8,5 @@ img: "/img/SAGE_Publishing_logo.svg.png"
 On-line časopisy vydavatelství [Sage](https://cuni.primo.exlibrisgroup.com/permalink/420CKIS_INST/gf08nd/alma9925591402506986) 
 jsou nyní dostupné až do roku 2025, plné impaktovaných časopisů z oblasti
 vzdělávání, včetně žádaných titulů od American Educational Research
-Association. A to není všechno – můžete vyhledávat konkrétní názvy časopisů
+Association. A to není všechno – můžete vyhledávat podle konkrétních názvů časopisů
 přímo v [UKAŽ](https://ukaz.cuni.cz/).
