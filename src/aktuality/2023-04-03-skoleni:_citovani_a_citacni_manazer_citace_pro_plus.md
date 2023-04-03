@@ -1,5 +1,5 @@
 ---
-title: Školení: Citování a citační manažer Citace Pro Plus
+title: "Školení: Citování a citační manažer Citace Pro Plus"
 hide: "2023-04-17"
 ---
 
