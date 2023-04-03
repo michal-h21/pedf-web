@@ -1,6 +1,6 @@
 ---
 title: Letos v naší knihovně opět proběhne Noc s Andersenem
-hide: "2199-12-31"
+hide: "2023-03-31"
 alt: Noc s Andersenem
 img: /img/noc_s_andersenem.jpg
 ---
