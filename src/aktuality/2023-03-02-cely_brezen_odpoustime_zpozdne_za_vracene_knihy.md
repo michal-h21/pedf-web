@@ -11,4 +11,3 @@ Pedagogické fakulty UK (včetně studovny v Celetné), nebudeme účtovat zpozd
 které je na ně navázané. Knihy můžete vracet u pultů nebo biblioboxů. Bibliobox
 pro vracení knih najdete v M. Rettigové vedle vrátnice, bibliobox v Celetné 13
 je před vchodem naší podkrovní studovny.
-
