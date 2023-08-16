@@ -33,6 +33,6 @@ Předpokládaná délka webináře: 40 min
   
 
 
-V případě Vašeho zájmu o více informací nás prosím kontaktujte zde: [psynek@ebsco.com](psynek@ebsco.com).
+V případě Vašeho zájmu o více informací nás prosím kontaktujte zde: [psynek@ebsco.com](mailto:psynek@ebsco.com).
 
 Tutoriál, který Vás provede připojením k webináři a nastavením Vašeho audio zařízení najdete pod [tímto odkazem](https://www.dropbox.com/s/uspw8xivim3xzvw/WebEx%20-%20Tutorial.pdf).
