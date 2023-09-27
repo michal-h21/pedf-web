@@ -1,6 +1,6 @@
 ---
 title: "Sanitární den: knihovna bude mít zavřeno"
-hide: "2023/09/30"
+hide: "2023-09-30"
 alt: "Megafon"
 img: /img/megafon.jpg
 ---
