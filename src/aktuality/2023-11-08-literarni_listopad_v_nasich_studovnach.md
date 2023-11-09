@@ -5,11 +5,7 @@ alt: "Studenti ve studovně"
 img: /img/akce_listopad_2023.jpg
 ---
 
-Zveme vás na tři literární události, které se budou v našich studovnách konat v následujících týdnech.  
-
-**9. 11. 2023 v 18 hodin: [Beseda a autorské čtení s Jakubem Stanjurou](https://pedf.cuni.cz/PEDF-61.html?event=26423&lang=cz) (studovna v Celetné 13)**
-
-Absolvent naší fakulty Jakub Stanjura nedávno vydal úspěšný román Srpny. Přijďte si poslechnout vybrané ukázky a diskutovat s autorem.      
+Zveme vás na dvě literární události, které se budou v naší studovně konat v následujících týdnech.  
 
 **15. 11. 2023 v 18 hodin: [Hana Lundiaková - Punk, Literatura a Hudba](https://pedf.cuni.cz/PEDF-61.html?event=26294&lang=cz) (studovna v M. Rettigové 4)**
 
