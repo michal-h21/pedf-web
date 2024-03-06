@@ -1,10 +1,9 @@
 ---
 title: Provoz knihoven na Filozofické fakultě
-hide: "2024-03-30"
+hide: "2024-02-28"
 alt: Megafon
 img: /img/megafon.jpg
 ---
-
 Od pondělí 19. 2. bude znovu otevřena většina knihoven na hlavní budově FF UK.
 
 Uzavřeny zatím do odvolání zůstanou knihovny ve 4. patře budovy, tedy Knihovna Ústavu hudební vědy a Knihovna finštiny. 

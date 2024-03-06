@@ -1,6 +1,6 @@
 ---
 title: Operation of libraries at the Faculty of Arts
-hide: "2199-12-31"
+hide: "2024-02-28"
 alt: Megafon
 img: /img/megafon.jpg
 ---
@@ -20,4 +20,3 @@ have any questions, do not hesitate to contact the CU FA Library by e-mail
 <a href="mailto:knihovna@ff.cuni.cz">knihovna@ff.cuni.cz</a>. More information
 can be found
 [here](https://knihovna.ff.cuni.cz/2024/01/04/oznameni-o-zmenach-v-provozu-knihovny-filozoficke-fakulty/).
-
