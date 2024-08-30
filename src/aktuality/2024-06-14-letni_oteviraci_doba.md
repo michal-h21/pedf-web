@@ -1,6 +1,6 @@
 ---
 title: Letní otevírací doba
-hide: "2024-09-01"
+hide: "2024-08-30"
 alt: "Unsplash/Vicko Mozara"
 img: /img/plamenak.png
 ---
