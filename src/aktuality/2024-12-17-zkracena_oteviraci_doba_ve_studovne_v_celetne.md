@@ -1,6 +1,6 @@
 ---
 title: Zkrácená otevírací doba ve studovně v Celetné
-hide: "2024/12/18"
+hide: "2024-12-18"
 alt: Obrázek megafon
 img: /img/megafon.jpg
 ---
