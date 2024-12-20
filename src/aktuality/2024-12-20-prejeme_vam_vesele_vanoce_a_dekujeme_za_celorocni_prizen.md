@@ -1,7 +1,7 @@
 ---
-title: Přejeme vám Veselé Vánoce a děkujeme za celoroční přízeň
+title: Přejeme vám veselé Vánoce a děkujeme za celoroční přízeň
 hide: "2025-01-10"
-alt: Vánoce
+alt: Vánoce!
 img: /img/chad-madden-SUTfFCAHV_A-unsplash.jpg 
 ---
 
