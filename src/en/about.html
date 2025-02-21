@@ -37,23 +37,57 @@ Our library is barrier-free. There is a deck system to help disabled users to ge
 <div class="col-sm-12 col-md-6">
   <h2>Map</h2>
   <!-- <img src= "rettig.jpg" /> -->
-  <div id="mapa"  style="width:100%; height:400px;"></div>
+  <!-- <div id="mapa"  style="width:100%; height:400px;"></div> -->
+  <div id="map"  style="width:100%; height:400px;"></div>
 </div>
 
-<script src="https://api.mapy.cz/loader.js"></script>
+<script src="https://unpkg.com/leaflet@1.9.2/dist/leaflet.js" integrity="sha256-o9N1jGDZrf5tS+Ft4gbIK7mYMipq9lqpVJ91xHSyKhg=" crossorigin=""></script>
 <script>
-  Loader.load()
-window.onload=function(){
-  var stred = SMap.Coords.fromWGS84(14.4203650,50.0798322 );
-  var mapa = new SMap(JAK.gel("mapa"), stred, 17);
-  mapa.addDefaultLayer(SMap.DEF_BASE).enable();
-  mapa.addDefaultControls();
-  var layer = new SMap.Layer.Marker();
-  mapa.addLayer(layer);
-  layer.enable();
+// replace with your own API key
+const API_KEY = 'F3h7oLkTMB42Ks4Vj-cVykATa1phhmTOmR_hTqL5Niw';
 
-  var options = {};
-  var marker = new SMap.Marker(stred, "myMarker", options);
-  layer.addMarker(marker);
-};
+/*
+We create the map and set its initial coordinates and zoom.
+See https://leafletjs.com/reference.html#map
+*/
+const map = L.map('map').setView([50.0798322,14.4203650], 17);
+var marker = L.marker([50.0798322,14.4203650]).addTo(map);
+
+/*
+Then we add a raster tile layer with REST API Mapy.cz tiles
+See https://leafletjs.com/reference.html#tilelayer
+*/
+L.tileLayer(`https://api.mapy.cz/v1/maptiles/basic/256/{z}/{x}/{y}?apikey=${API_KEY}`, {
+  minZoom: 0,
+  maxZoom: 19,
+  attribution: '<a href="https://api.mapy.cz/copyright" target="_blank">&copy; Seznam.cz a.s. a další</a>',
+}).addTo(map);
+
+/*
+We also require you to include our logo somewhere over the map.
+We create our own map control implementing a documented interface,
+that shows a clickable logo.
+See https://leafletjs.com/reference.html#control
+*/
+const LogoControl = L.Control.extend({
+  options: {
+    position: 'bottomleft',
+  },
+
+  onAdd: function (map) {
+    const container = L.DomUtil.create('div');
+    const link = L.DomUtil.create('a', '', container);
+
+    link.setAttribute('href', 'http://mapy.cz/');
+    link.setAttribute('target', '_blank');
+    link.innerHTML = '<img src="https://api.mapy.cz/img/api/logo.svg" />';
+    L.DomEvent.disableClickPropagation(link);
+
+    return container;
+  },
+});
+
+// finally we add our LogoControl to the map
+new LogoControl().addTo(map);
 </script>
+
