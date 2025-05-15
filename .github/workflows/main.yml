@@ -26,7 +26,7 @@ jobs:
       run:
         git -C src log -1 --format='%ai' HEAD sluzby.htm
 
-    - uses: leafo/gh-actions-lua@v9
+    - uses: leafo/gh-actions-lua@v11
       with:
         luaVersion: "5.3"
 
