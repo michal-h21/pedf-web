@@ -17,5 +17,5 @@ prodlužujeme do 1. října 2025.
 pracovní den od 9 do 15 hodin. Zde bude možné tisknout, využívat kroužkovou
 vazbu a i další obvyklé služby.**  
 
-Výjimkou bude 17. a 18. 7. 2025, kdy bude studovna v Celetné uzavřena z důvodu
+Výjimkou bude **17.** a **18. 7. 2025**, kdy bude studovna v Celetné **uzavřena** z důvodu
 konání pravidelné revize knihovního fondu.   
