@@ -6,7 +6,7 @@ img: /img/slunecnice.jpg
 ---
 
 Knihovna v M. Rettigové 4 bude zavřená stejně jako celá budova od 1. 7. 2025.
-Otevře se nejdříve v druhé polovině září. Z důvodu rekonstrukce se ke knihám
+Otevře se 29. 9. 2025. Z důvodu rekonstrukce se ke knihám
 v M. Rettigové nebude možné po celou dobu dostat.  
 
 **V červnu bude proto poslední možnost vytvořit si zásoby až do podzimu (např. na
