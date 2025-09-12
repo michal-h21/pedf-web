@@ -11,7 +11,6 @@ v M. Rettigové nebude možné po celou dobu dostat.
 
 Výpůjční dobu na všechny knihy aktuálně prodlužujeme do 15. října 2025. 
 
-**Dobrá zpráva: Po celou dobu bude otevřená studovna v Celetné, a to každý
-pracovní den od 9 do 16 hodin. Zde bude možné tisknout, využívat kroužkovou
+**Dobrá zpráva: Po celou dobu bude otevřená studovna v Celetné, a to od pondělí do čtvrtka od 9 do 16 hodin, v pátek od 9 do 13 hodin. Zde bude možné tisknout, využívat kroužkovou
 vazbu a i další obvyklé služby.**  
 
