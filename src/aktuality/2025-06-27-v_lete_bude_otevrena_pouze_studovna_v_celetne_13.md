@@ -1,6 +1,6 @@
 ---
 title: V létě bude otevřená pouze studovna v Celetné 13
-hide: "2025-09-30"
+hide: "2025-09-15"
 alt: "photo of flower, summer, blue sky, and leaves in Paris, United States by Courtney Cook (@courtneymcook)"
 img: /img/slunecnice.jpg
 ---
