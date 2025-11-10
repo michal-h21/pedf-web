@@ -2,7 +2,7 @@
 title: Lean Library – rozšíření pro snadný přístup k EIZ
 hide: "2025-11-30"
 alt: Lean Library
-img: /img/megafon.jpg
+img: /img/lean-library_logo.jpg
 ---
 
 Vyzkoušejte nové rozšíření [Lean Library](https://wiki.alma.cuni.cz/index.php?title=Lean_Library) pro webové prohlížeče, které usnadňuje přístup k elektronickým informačním zdrojům (EIZ) Univerzity Karlovy.

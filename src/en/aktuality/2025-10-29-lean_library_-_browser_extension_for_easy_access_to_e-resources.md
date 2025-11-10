@@ -2,7 +2,7 @@
 title: Lean Library – browser extension for easy access to e-resources
 hide: "2025-11-30"
 alt: Lean Library
-img: /img/megafon.jpg 
+img: /img/lean-library_logo.jpg
 ---
 
 Try the new [Lean Library](https://wiki.alma.cuni.cz/index.php?title=Lean_Library/en) browser extension that helps you access licensed electronic information resources (EIZ) of Charles University.
