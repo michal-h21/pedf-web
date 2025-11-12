@@ -9,6 +9,7 @@ img: /img/megafon.jpg
 
 <h3>Během uzavírky:</h3>
 <ul>
+<li>bude uzavřena <strong>půjčovna</strong> i <strong>studovna</strong>,</li>
 <li>výpůjčky končící v tomto období budou <strong>automaticky prodlouženy do 4. 5. 2026</strong>,</li>
 <li>knihy bude možné <strong>po celou dobu vracet do biblioboxu u vrátnice</strong>,</li>
 <li><strong>půjčování knih (ani přes rezervační boxy) nebude možné</strong>,</li>
