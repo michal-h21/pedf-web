@@ -1,6 +1,6 @@
 ---
 title: Library at M. Rettigové 4 closed from 1 December 2025 due to renovation
-hide: "2199-12-31"
+hide: "2025-12-31"
 alt: megaphone
 img: /img/megafon.jpg
 ---
