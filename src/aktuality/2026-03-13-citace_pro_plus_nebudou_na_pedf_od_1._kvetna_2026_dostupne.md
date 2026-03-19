@@ -1,5 +1,5 @@
 ---
-title: Citace Pro Plus nebudou na PedF od 1. května 2026 dostupné
+title: Citace Pro Plus nebudou na PedF od konce července 2026 dostupné
 hide: "2199-12-31"
 img: /img/logoCitaceCom.png
 alt: logo citace.com
