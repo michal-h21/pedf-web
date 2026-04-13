@@ -7,7 +7,7 @@ img: /img/megafon.jpg
 
 <p>
 Během rekonstrukce pro vás rozšiřujeme prostor ke studiu i setkávání.
-Konzultace poskytujeme v kanceláři R136 v pondělí a ve středu od 9 do 16 hodin
+Konzultace poskytujeme v kanceláři 009 naproti studovně v pondělí a ve středu od 9 do 16 hodin
 nebo e-mailem na adrese <a href="mailto:knihovna@pedf.cuni.cz">knihovna@pedf.cuni.cz</a>. Studovna v Celetné 13 zůstává
 otevřená v běžném režimu.
 </p>
