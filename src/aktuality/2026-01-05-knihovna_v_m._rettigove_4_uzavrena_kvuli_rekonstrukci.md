@@ -22,7 +22,7 @@ Během uzavírky:
 </li>
 
 <li>
-    výpůjčky končící v tomto období jsou automaticky prodlouženy do 4. 5. 2026,
+    výpůjčky končící v tomto období jsou automaticky prodlouženy do 10. 6. 2026,
 </li>
 
 <li>

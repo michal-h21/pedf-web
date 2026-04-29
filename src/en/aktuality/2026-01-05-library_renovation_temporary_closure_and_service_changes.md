@@ -16,7 +16,7 @@ The study room at <strong>Celetná 13</strong> remains open under normal conditi
 
 <ul>
   <li>the lending desk and study room at <strong>M. Rettigové 4</strong> are closed,</li>
-  <li>loans due during this period are automatically extended until <strong>4 May 2026</strong>,</li>
+  <li>loans due during this period are automatically extended until <strong>10th June 2026</strong>,</li>
   <li>books can be returned at any time via the book drop at the porter’s desk,</li>
   <li>borrowing books (including via reservation boxes) is not possible.</li>
 </ul>
