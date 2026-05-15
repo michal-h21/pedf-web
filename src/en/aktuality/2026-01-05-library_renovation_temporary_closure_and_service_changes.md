@@ -6,7 +6,7 @@ img: /img/megafon.jpg
 ---
 <p>
 During the renovation, we are expanding the space available for study and meetings.
-Consultations are provided in office <strong>R136</strong> on <strong>Mondays and Wednesdays</strong>
+Consultations are provided in office <b>R006</b> on <strong>Mondays and Wednesdays</strong>
 from <strong>9:00 a.m. to 4:00 p.m.</strong>, or by email at
 <a href="mailto:knihovna@pedf.cuni.cz">knihovna@pedf.cuni.cz</a>.
 The study room at <strong>Celetná 13</strong> remains open under normal conditions.
