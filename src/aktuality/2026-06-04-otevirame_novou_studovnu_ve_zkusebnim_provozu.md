@@ -15,7 +15,7 @@ K dispozici je i kroužková vazba.
 Původní studovna ještě prochází rekonstrukcí, měla by se ale také otevřít v průběhu června.
 
 V obou studovnách budou nově knihy, které je možné půjčovat si domů. 
-Knihy lze i nadále vracet do biblioboxu vedle vrátnice, termín vrácení  je **10. 6. 2026**. 
+Knihy lze i nadále vracet do biblioboxu před knihovnou, termín vrácení  je **10. 6. 2026**. 
 Knihy je možné rezervovat přes [UKAŽ](https://ukaz.cuni.cz/) a vyzvednout přes [rezervační box](rezervacni_boxy.html).
 
 
