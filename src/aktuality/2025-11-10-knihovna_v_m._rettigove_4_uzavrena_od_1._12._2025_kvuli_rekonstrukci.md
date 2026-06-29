@@ -1,6 +1,6 @@
 ---
 title: Knihovna v M. Rettigové 4 uzavřena od 1. 12. 2025 kvůli rekonstrukci
-hide: "2199-12-31"
+hide: "2025-12-31"
 alt: megafon
 img: /img/megafon.jpg
 ---
