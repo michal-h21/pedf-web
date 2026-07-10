@@ -77,7 +77,8 @@ jobs:
         export DATA_DIR=$GITHUB_WORKSPACE/code/data
         export WWW_DIR=$GITHUB_WORKSPACE/www
         echo $WWW_DIR
-        lua web.lua
+        ./build.sh
+        # lua web.lua
 
     - name: Test if it works
       run: cat www/js/calendar.js
