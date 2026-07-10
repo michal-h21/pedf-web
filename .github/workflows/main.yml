@@ -58,12 +58,17 @@ jobs:
       working-directory: lettersmith
       run: luarocks make
 
+    # - name: Download blog code
+    #   uses: actions/checkout@v2
+    #   with:
+    #     repository:  michal-h21/pedf-web-navrh
+    #     path: code
+
     - name: Download blog code
       uses: actions/checkout@v2
       with:
-        repository:  michal-h21/pedf-web-navrh
+        repository: Knihovna-PedF-UK/web2025
         path: code
-
 
     - name: Build web
       working-directory: code
