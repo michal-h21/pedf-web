@@ -6,7 +6,6 @@ img: /img/studovna2.jpg
 ---
 
 **M. Rettigové 4:**
-
 Novou studovnu najdete naproti původní studovně.
 Zkušební provoz zahájíme v **pondělí 8. 6. 2026**, otevřeno bude až do **čtvrtku 9. 7.**
 **Otevírací doba v červenci**: od pondělí do pátku 9-15.
@@ -19,6 +18,5 @@ Knihy je možné rezervovat přes [UKAŽ](https://ukaz.cuni.cz/) a vyzvednout p�
 
 
 **Celetná 13:**
-
 V červenci máme zavřeno.
 
