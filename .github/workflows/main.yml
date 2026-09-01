@@ -78,12 +78,12 @@ jobs:
         export WWW_DIR=$GITHUB_WORKSPACE/www
         echo $WWW_DIR
         ./build.sh
-        ls www/img
         # lua web.lua
 
     - name: Test if it works
       run: |
         cat www/js/calendar.js
+        ls www/img
 
     - name: Deploy
       uses: kevinpainchaud/simple-ftp-deploy-action@v1.2.1
